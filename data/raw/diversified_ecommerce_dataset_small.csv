@@ -1,0 +1,1001 @@
+Product ID,Product Name,Category,Price,Discount,Tax Rate,Stock Level,Supplier ID,Customer Age Group,Customer Location,Customer Gender,Shipping Cost,Shipping Method,Return Rate,Seasonality,Popularity Index
+P6879,Jacket,Apparel,53.85,5,15,150,S535,35-44,"New York, USA",Male,23.32,Standard,4.49,Yes,56
+P5132,Camera,Electronics,761.26,10,15,224,S583,25-34,"London, UK",Female,20.88,Overnight,16.11,No,79
+P2941,Sneakers,Footwear,1756.76,5,8,468,S118,25-34,"Tokyo, Japan",Non-Binary,16.43,Standard,4.93,No,40
+P8545,Cookbooks,Books,295.24,10,15,25,S104,18-24,"Paris, France",Female,27.49,Standard,1.31,No,93
+P4594,Camera,Electronics,832.0,10,12,340,S331,55+,"Tokyo, Japan",Male,45.93,Overnight,4.37,No,56
+P1388,Non-Fiction,Books,584.19,15,8,204,S523,45-54,Singapore,Female,40.12,Express,19.03,No,91
+P7313,Running Shoes,Footwear,1343.95,0,10,493,S878,18-24,"Sydney, Australia",Female,35.91,Overnight,17.73,Yes,41
+P1060,Blender,Home Appliances,1873.52,0,15,349,S396,18-24,"Phoenix, USA",Male,46.42,Standard,4.79,No,60
+P1241,Fiction,Books,1586.65,25,5,237,S183,35-44,"Cape Town, South Africa",Male,33.1,Express,2.55,Yes,90
+P9687,Heels,Footwear,1975.69,20,8,132,S672,18-24,"New York, USA",Female,5.25,Overnight,16.5,Yes,96
+P6094,Comics,Books,1657.73,15,10,300,S501,45-54,"London, UK",Female,28.99,Express,10.51,No,36
+P3700,Fiction,Books,395.42,5,12,335,S975,55+,"Houston, USA",Female,3.35,Overnight,17.12,No,66
+P8707,Smartwatch,Electronics,1915.09,20,8,332,S640,35-44,Singapore,Non-Binary,15.14,Standard,3.5,No,57
+P3045,Fiction,Books,1345.42,15,15,150,S204,55+,"Cape Town, South Africa",Non-Binary,14.25,Standard,19.77,Yes,35
+P2019,Hiking Shoes,Footwear,302.74,25,12,456,S194,45-54,"Toronto, Canada",Female,44.1,Standard,7.05,No,3
+P5172,Washing Machine,Home Appliances,204.73,5,15,112,S597,25-34,"London, UK",Female,10.03,Overnight,17.74,No,27
+P2766,Boots,Footwear,1961.39,25,15,420,S732,35-44,"Chicago, USA",Non-Binary,1.68,Overnight,11.08,No,92
+P2339,Textbooks,Books,812.75,20,15,180,S702,35-44,"Berlin, Germany",Non-Binary,2.4,Express,10.33,Yes,72
+P7834,Boots,Footwear,713.69,15,10,485,S328,45-54,Singapore,Male,36.33,Overnight,1.95,Yes,64
+P9427,Monitor,Electronics,1473.42,0,12,440,S689,35-44,"Houston, USA",Female,20.31,Express,16.78,Yes,98
+P9470,Comics,Books,136.09,5,15,137,S915,45-54,"Dubai, UAE",Non-Binary,9.29,Standard,10.19,Yes,97
+P3629,Skirt,Apparel,100.9,5,5,460,S137,55+,"Chicago, USA",Male,21.4,Overnight,13.52,Yes,42
+P9660,Cookbooks,Books,1268.89,10,10,139,S637,55+,Singapore,Non-Binary,25.57,Standard,6.63,Yes,49
+P6295,Sneakers,Footwear,72.99,0,15,31,S441,35-44,"Mumbai, India",Male,31.41,Express,8.27,Yes,75
+P8171,Socks,Apparel,1767.45,5,15,253,S514,45-54,"Dubai, UAE",Non-Binary,32.96,Standard,10.98,Yes,52
+P1543,Smartphone,Electronics,1611.15,0,8,416,S318,55+,"Houston, USA",Female,44.88,Express,7.81,Yes,77
+P5806,Sandals,Footwear,354.7,25,15,302,S503,35-44,"Mumbai, India",Male,47.31,Express,9.26,Yes,74
+P4049,Cookbooks,Books,1734.45,10,10,70,S312,55+,"Dubai, UAE",Male,26.67,Overnight,13.28,No,81
+P7405,Dishwasher,Home Appliances,1859.66,5,5,444,S312,55+,"Dubai, UAE",Female,20.57,Standard,11.18,No,1
+P3395,Socks,Apparel,1701.63,0,8,386,S250,55+,"Cape Town, South Africa",Female,16.66,Express,6.83,No,12
+P1368,Dishwasher,Home Appliances,1560.44,0,12,341,S666,55+,"Phoenix, USA",Male,42.28,Standard,5.1,Yes,74
+P9511,Sweater,Apparel,693.15,10,8,354,S833,25-34,"New York, USA",Non-Binary,14.21,Express,16.65,No,99
+P8286,Gaming Console,Electronics,181.56,25,15,252,S330,35-44,"Mumbai, India",Non-Binary,26.19,Overnight,16.04,Yes,76
+P6975,Sneakers,Footwear,1422.24,5,5,151,S739,45-54,"Los Angeles, USA",Female,19.44,Express,11.99,Yes,91
+P4874,Microwave,Home Appliances,1974.16,25,8,205,S677,25-34,Singapore,Female,11.49,Overnight,19.54,No,31
+P9462,Vacuum Cleaner,Home Appliances,176.23,10,10,158,S677,25-34,"Tokyo, Japan",Female,43.93,Standard,15.27,Yes,62
+P8121,Jeans,Apparel,969.02,25,12,334,S233,18-24,"Mumbai, India",Female,22.94,Express,12.72,No,37
+P8414,Shirt,Apparel,784.57,5,5,202,S768,25-34,"Paris, France",Non-Binary,10.08,Standard,19.32,Yes,31
+P5247,Textbooks,Books,1297.4,5,10,156,S805,35-44,"Sydney, Australia",Non-Binary,47.19,Standard,4.11,Yes,52
+P2236,Speaker,Electronics,716.38,25,10,245,S986,25-34,Singapore,Non-Binary,11.81,Standard,14.31,Yes,20
+P8041,Sandals,Footwear,1165.22,5,5,66,S112,18-24,"Toronto, Canada",Female,5.6,Express,2.88,No,21
+P9998,Tablet,Electronics,1923.97,15,15,448,S614,35-44,Singapore,Female,30.56,Overnight,12.67,No,78
+P6985,Jacket,Apparel,1283.31,20,15,200,S403,55+,"Tokyo, Japan",Non-Binary,14.53,Standard,8.72,Yes,87
+P3129,Tablet,Electronics,231.91,25,5,411,S587,25-34,"Dubai, UAE",Male,39.52,Overnight,18.58,No,81
+P7606,Gaming Console,Electronics,617.7,25,10,279,S244,25-34,Singapore,Female,5.63,Standard,5.93,Yes,97
+P1015,Sneakers,Footwear,1437.47,15,12,175,S925,45-54,"New York, USA",Female,6.7,Overnight,19.58,No,37
+P8039,Magazines,Books,1812.95,5,8,374,S598,55+,"New York, USA",Male,43.75,Standard,14.99,No,97
+P3405,Sweater,Apparel,378.81,0,5,489,S835,45-54,"Paris, France",Female,47.19,Standard,9.95,No,6
+P8934,Jacket,Apparel,1039.63,15,15,255,S858,35-44,"Houston, USA",Non-Binary,4.76,Overnight,4.43,No,52
+P4228,T-shirt,Apparel,1777.87,0,8,260,S159,45-54,Singapore,Female,10.55,Overnight,5.23,No,0
+P7684,Sneakers,Footwear,1186.64,5,10,224,S516,25-34,"Los Angeles, USA",Non-Binary,4.08,Express,9.39,No,16
+P3933,Speaker,Electronics,640.22,15,12,67,S508,25-34,"Cape Town, South Africa",Non-Binary,23.36,Standard,18.78,No,79
+P3736,Speaker,Electronics,461.36,0,12,216,S101,35-44,"Houston, USA",Male,35.0,Overnight,12.27,Yes,85
+P7620,Sneakers,Footwear,1899.38,5,8,343,S682,18-24,"New York, USA",Female,18.83,Overnight,9.28,Yes,55
+P4910,Washing Machine,Home Appliances,1672.49,25,5,330,S171,18-24,"Cape Town, South Africa",Female,22.11,Overnight,11.57,No,45
+P2094,Tablet,Electronics,1045.1,10,15,212,S546,35-44,"Berlin, Germany",Male,33.99,Standard,2.22,No,84
+P4803,Refrigerator,Home Appliances,1639.9,15,12,368,S928,25-34,"Houston, USA",Female,33.3,Express,16.24,Yes,49
+P9994,Flats,Footwear,54.5,20,15,419,S105,55+,"Berlin, Germany",Male,43.53,Standard,10.75,Yes,71
+P1860,Microwave,Home Appliances,1009.24,0,5,12,S587,35-44,"London, UK",Female,49.55,Standard,16.13,Yes,68
+P9120,Gaming Console,Electronics,401.65,20,8,403,S819,35-44,"Los Angeles, USA",Non-Binary,15.89,Overnight,19.3,Yes,9
+P8660,Non-Fiction,Books,522.34,0,12,293,S793,35-44,"Tokyo, Japan",Female,20.2,Express,8.7,No,22
+P5547,Hiking Shoes,Footwear,1344.31,5,8,438,S698,45-54,"Mumbai, India",Female,36.73,Standard,13.6,No,20
+P8813,Jacket,Apparel,1566.46,10,12,253,S908,25-34,"Houston, USA",Female,33.95,Standard,10.16,No,2
+P2663,Magazines,Books,838.55,0,15,257,S934,45-54,"Mumbai, India",Female,2.1,Standard,12.23,Yes,88
+P8974,Non-Fiction,Books,716.31,20,10,51,S417,55+,"Mumbai, India",Female,19.24,Overnight,19.74,No,61
+P9313,Sweater,Apparel,1443.85,20,8,398,S126,35-44,"London, UK",Female,46.58,Standard,3.1,Yes,45
+P5623,Sneakers,Footwear,571.73,20,12,204,S780,35-44,"Mumbai, India",Non-Binary,2.37,Express,13.75,Yes,77
+P5319,Smartphone,Electronics,852.19,20,15,79,S132,45-54,"Phoenix, USA",Male,46.79,Express,1.39,Yes,90
+P4776,Formal Shoes,Footwear,396.89,0,8,226,S392,35-44,"London, UK",Non-Binary,24.13,Express,6.5,Yes,74
+P1757,Air Conditioner,Home Appliances,843.76,25,12,29,S409,25-34,"London, UK",Male,18.0,Standard,8.05,Yes,2
+P1902,Dress,Apparel,1289.82,25,10,407,S303,25-34,Singapore,Non-Binary,46.59,Express,8.16,Yes,62
+P5478,Sandals,Footwear,1675.4,0,12,246,S729,55+,"Los Angeles, USA",Female,0.74,Express,11.19,No,96
+P4700,Graphic Novels,Books,1823.61,15,10,33,S262,45-54,"Paris, France",Non-Binary,37.04,Standard,14.1,Yes,28
+P6829,Gaming Console,Electronics,647.28,10,15,259,S414,45-54,"Houston, USA",Female,28.69,Express,16.04,Yes,8
+P1625,Camera,Electronics,412.33,5,12,49,S425,55+,"Houston, USA",Female,4.97,Standard,6.33,No,55
+P9246,Slippers,Footwear,683.69,5,8,179,S737,18-24,"Mumbai, India",Female,19.56,Standard,8.34,Yes,62
+P8021,Monitor,Electronics,78.78,20,10,21,S748,45-54,"Cape Town, South Africa",Female,34.35,Standard,7.52,Yes,68
+P1093,Dishwasher,Home Appliances,1260.23,15,8,500,S587,55+,"Chicago, USA",Non-Binary,42.18,Standard,13.5,No,10
+P1331,Sandals,Footwear,1412.3,15,5,249,S955,55+,"Tokyo, Japan",Non-Binary,4.97,Overnight,13.81,Yes,19
+P8384,Fiction,Books,849.76,10,5,201,S398,55+,"London, UK",Male,33.58,Overnight,10.35,Yes,22
+P8905,Smartwatch,Electronics,191.79,10,5,186,S512,35-44,"London, UK",Female,14.85,Express,16.75,Yes,67
+P3647,Fiction,Books,945.37,25,8,29,S139,18-24,"Los Angeles, USA",Non-Binary,48.66,Express,3.56,No,8
+P6603,Refrigerator,Home Appliances,1991.56,25,10,444,S114,25-34,"Chicago, USA",Non-Binary,2.58,Standard,3.84,No,13
+P4207,Non-Fiction,Books,532.14,0,10,126,S306,25-34,"Los Angeles, USA",Non-Binary,18.56,Overnight,7.11,No,31
+P3391,T-shirt,Apparel,1917.52,15,12,198,S578,25-34,Singapore,Female,38.23,Overnight,11.98,Yes,43
+P5317,Running Shoes,Footwear,252.46,25,8,219,S459,45-54,Singapore,Non-Binary,49.71,Express,11.58,No,52
+P1030,Toaster,Home Appliances,1192.27,15,15,365,S492,45-54,"Sydney, Australia",Male,48.73,Standard,1.8,Yes,35
+P2323,Smartwatch,Electronics,1269.21,0,8,293,S648,45-54,"Tokyo, Japan",Female,43.88,Overnight,11.79,No,18
+P4222,Vacuum Cleaner,Home Appliances,248.84,0,15,176,S642,45-54,"Paris, France",Male,11.15,Overnight,12.9,No,37
+P8135,Fiction,Books,599.08,10,12,252,S371,35-44,"Los Angeles, USA",Male,24.05,Express,4.15,Yes,56
+P4376,Skirt,Apparel,713.6,5,10,478,S619,25-34,"Phoenix, USA",Non-Binary,42.97,Standard,18.38,No,68
+P1059,Cookbooks,Books,1611.51,10,5,459,S490,55+,"London, UK",Female,8.35,Standard,8.56,Yes,41
+P6919,Tablet,Electronics,1373.5,20,12,299,S880,45-54,"Mumbai, India",Non-Binary,40.81,Express,17.8,No,52
+P7762,Comics,Books,1389.3,0,8,337,S929,25-34,"Dubai, UAE",Female,17.48,Express,3.2,No,63
+P6515,Smartwatch,Electronics,665.23,0,15,6,S982,18-24,"Tokyo, Japan",Non-Binary,44.02,Express,7.83,No,41
+P3993,Jeans,Apparel,903.44,10,12,498,S799,18-24,"Cape Town, South Africa",Male,6.79,Express,11.08,No,1
+P9970,Non-Fiction,Books,330.43,20,5,257,S674,35-44,"Sydney, Australia",Female,38.13,Standard,8.0,No,48
+P3835,T-shirt,Apparel,422.15,25,15,21,S234,25-34,"Phoenix, USA",Male,17.82,Overnight,4.84,No,85
+P7492,Monitor,Electronics,1723.09,5,12,101,S984,25-34,"New York, USA",Female,44.81,Standard,2.0,No,62
+P5736,Speaker,Electronics,831.14,25,15,51,S521,45-54,"Phoenix, USA",Female,29.12,Express,8.34,No,93
+P5728,Speaker,Electronics,1702.88,10,12,331,S541,45-54,"Toronto, Canada",Non-Binary,35.44,Standard,1.43,No,16
+P4611,Boots,Footwear,1776.16,0,5,362,S478,18-24,"Berlin, Germany",Female,21.5,Overnight,18.97,No,90
+P1752,Biographies,Books,299.49,15,15,236,S778,45-54,"Chicago, USA",Female,33.78,Overnight,17.92,No,68
+P4350,Hiking Shoes,Footwear,1347.26,25,8,333,S208,45-54,"New York, USA",Male,12.41,Standard,7.15,No,54
+P9314,Comics,Books,128.77,10,5,366,S119,35-44,"Paris, France",Female,14.54,Express,17.32,Yes,80
+P1295,Tablet,Electronics,873.14,25,10,268,S340,25-34,"Los Angeles, USA",Female,32.56,Standard,19.46,No,25
+P4995,Vacuum Cleaner,Home Appliances,1155.19,5,12,106,S247,25-34,"Cape Town, South Africa",Female,13.23,Express,17.77,No,64
+P5334,Gaming Console,Electronics,1916.89,20,10,439,S367,18-24,"Los Angeles, USA",Male,23.53,Express,11.77,Yes,82
+P5162,Formal Shoes,Footwear,854.53,20,12,46,S861,45-54,"Paris, France",Non-Binary,6.27,Overnight,13.13,Yes,41
+P3373,Skirt,Apparel,1083.2,15,5,218,S235,18-24,"Berlin, Germany",Male,2.1,Overnight,3.05,Yes,61
+P5223,Dishwasher,Home Appliances,983.84,5,8,395,S255,18-24,"New York, USA",Non-Binary,38.95,Express,15.72,Yes,78
+P4165,Microwave,Home Appliances,1992.66,25,5,39,S764,25-34,"Los Angeles, USA",Non-Binary,47.64,Overnight,13.61,Yes,92
+P4149,Comics,Books,1205.22,25,8,116,S574,18-24,"Chicago, USA",Female,9.15,Overnight,3.83,No,40
+P3367,Dishwasher,Home Appliances,305.92,15,15,135,S518,55+,"Chicago, USA",Male,47.12,Express,5.79,No,67
+P5496,Blender,Home Appliances,667.94,5,8,190,S377,18-24,"Los Angeles, USA",Non-Binary,42.48,Standard,8.14,Yes,32
+P3457,Slippers,Footwear,365.18,10,10,392,S191,25-34,"Paris, France",Female,41.14,Standard,5.58,Yes,28
+P3900,Gaming Console,Electronics,1478.16,25,10,126,S100,18-24,"Dubai, UAE",Male,43.24,Express,3.97,No,57
+P5341,Microwave,Home Appliances,150.75,25,5,103,S499,18-24,"Toronto, Canada",Non-Binary,5.6,Standard,6.81,Yes,29
+P1344,Formal Shoes,Footwear,1663.85,10,8,46,S628,45-54,"Paris, France",Male,11.11,Standard,14.24,No,50
+P1548,Air Conditioner,Home Appliances,1920.43,10,15,452,S661,25-34,"Tokyo, Japan",Non-Binary,18.26,Standard,5.92,No,36
+P5504,Headphones,Electronics,1233.45,25,10,48,S206,55+,"Toronto, Canada",Male,31.12,Overnight,17.64,No,59
+P3634,Shirt,Apparel,337.75,25,10,48,S999,55+,"London, UK",Male,29.39,Overnight,1.03,Yes,26
+P7053,Dishwasher,Home Appliances,1488.38,25,15,462,S516,35-44,"Tokyo, Japan",Non-Binary,3.96,Express,17.4,Yes,60
+P2723,Jacket,Apparel,1109.9,5,12,56,S953,45-54,"Mumbai, India",Male,45.98,Standard,17.72,No,70
+P3870,Sweater,Apparel,123.97,25,8,269,S657,45-54,"Phoenix, USA",Female,37.58,Standard,19.83,Yes,17
+P4667,Toaster,Home Appliances,81.52,25,8,164,S833,45-54,"Tokyo, Japan",Male,10.81,Overnight,17.15,No,6
+P8563,Fiction,Books,1670.24,0,15,272,S316,25-34,"Los Angeles, USA",Female,45.75,Express,11.19,Yes,52
+P3524,Comics,Books,917.1,25,15,281,S117,45-54,"London, UK",Non-Binary,23.44,Standard,7.71,Yes,12
+P8319,Sneakers,Footwear,409.71,20,10,32,S567,18-24,"Sydney, Australia",Female,2.92,Overnight,15.88,No,56
+P5786,Sandals,Footwear,1585.12,25,8,430,S941,18-24,"Dubai, UAE",Female,42.41,Overnight,1.09,Yes,10
+P8521,T-shirt,Apparel,339.37,0,15,156,S341,18-24,"Los Angeles, USA",Female,45.12,Express,10.25,Yes,68
+P9085,Dishwasher,Home Appliances,1986.23,0,5,494,S551,45-54,Singapore,Non-Binary,19.82,Standard,4.02,No,22
+P9639,Blender,Home Appliances,512.21,20,8,222,S992,18-24,"Dubai, UAE",Non-Binary,26.11,Standard,11.62,No,19
+P7927,Sandals,Footwear,27.33,25,15,423,S966,45-54,"Tokyo, Japan",Non-Binary,48.49,Express,10.73,No,56
+P6749,Boots,Footwear,967.15,0,10,384,S733,18-24,"Phoenix, USA",Male,41.01,Standard,11.12,Yes,92
+P6668,Sandals,Footwear,735.67,5,12,22,S892,25-34,Singapore,Male,10.12,Overnight,8.41,No,63
+P1100,Hiking Shoes,Footwear,1672.77,20,10,230,S565,45-54,"Phoenix, USA",Female,24.19,Overnight,6.71,Yes,86
+P9256,Comics,Books,1776.23,10,10,291,S663,18-24,"Sydney, Australia",Female,5.22,Standard,13.06,No,23
+P3326,Vacuum Cleaner,Home Appliances,1538.91,10,12,433,S921,45-54,"Houston, USA",Male,22.71,Express,18.38,No,67
+P2621,Graphic Novels,Books,1388.95,15,5,432,S277,45-54,"Toronto, Canada",Female,32.91,Express,3.98,No,9
+P1704,Microwave,Home Appliances,388.4,5,12,241,S797,45-54,"Sydney, Australia",Non-Binary,19.44,Overnight,7.75,No,31
+P8067,Jeans,Apparel,1433.7,20,10,50,S896,35-44,"Houston, USA",Female,18.67,Express,11.49,Yes,25
+P8218,T-shirt,Apparel,56.78,20,10,142,S256,35-44,"Cape Town, South Africa",Non-Binary,0.2,Express,15.18,Yes,96
+P9467,Textbooks,Books,1859.85,25,10,107,S446,55+,"Tokyo, Japan",Male,45.9,Standard,11.48,No,61
+P5210,Headphones,Electronics,17.0,10,12,487,S735,55+,"London, UK",Non-Binary,34.73,Express,8.13,No,3
+P6435,Sweater,Apparel,992.03,5,10,11,S899,45-54,"Los Angeles, USA",Female,27.12,Standard,18.64,Yes,25
+P9159,Air Conditioner,Home Appliances,1299.75,5,12,182,S149,55+,"Cape Town, South Africa",Male,41.7,Express,14.96,Yes,62
+P6930,Biographies,Books,1404.22,10,15,73,S673,55+,"Paris, France",Female,49.95,Overnight,7.1,No,94
+P7026,Refrigerator,Home Appliances,78.13,5,5,496,S736,25-34,"Chicago, USA",Female,35.78,Express,12.22,No,23
+P4383,Tablet,Electronics,1728.75,10,12,72,S489,35-44,"Los Angeles, USA",Male,29.76,Standard,10.6,No,60
+P9238,T-shirt,Apparel,170.49,25,10,20,S375,25-34,"New York, USA",Male,41.98,Express,16.89,No,12
+P7130,Jeans,Apparel,1542.29,0,15,446,S657,55+,"Chicago, USA",Female,32.24,Standard,12.39,Yes,63
+P3746,Tablet,Electronics,1850.31,0,12,186,S260,35-44,"London, UK",Male,0.14,Standard,15.77,Yes,71
+P4640,Gaming Console,Electronics,348.0,0,5,252,S689,18-24,Singapore,Female,24.93,Express,5.49,No,94
+P7454,Socks,Apparel,1973.76,0,10,75,S859,45-54,"Phoenix, USA",Female,45.39,Express,15.68,Yes,29
+P1280,Fiction,Books,1699.58,20,8,64,S711,35-44,"New York, USA",Male,25.48,Standard,10.95,Yes,27
+P8290,Fiction,Books,1779.17,0,8,431,S751,25-34,Singapore,Male,12.53,Express,14.91,Yes,41
+P9039,Biographies,Books,717.26,0,15,383,S138,55+,"New York, USA",Male,49.05,Standard,9.12,Yes,18
+P8996,Fiction,Books,249.25,15,15,93,S241,18-24,"Cape Town, South Africa",Non-Binary,37.61,Express,2.65,Yes,58
+P2005,Toaster,Home Appliances,412.47,25,8,467,S950,55+,Singapore,Female,15.46,Express,18.37,No,29
+P1829,Shorts,Apparel,1313.67,5,10,21,S940,45-54,"Phoenix, USA",Male,11.24,Express,8.69,No,10
+P9813,Headphones,Electronics,23.64,10,5,199,S454,55+,"Toronto, Canada",Female,9.46,Standard,13.97,No,38
+P1135,T-shirt,Apparel,1613.35,10,5,340,S769,55+,"Tokyo, Japan",Male,34.76,Standard,5.11,Yes,61
+P4375,Graphic Novels,Books,711.28,0,15,340,S597,25-34,"Mumbai, India",Female,9.7,Express,6.75,No,8
+P9028,Smartphone,Electronics,1041.48,5,12,119,S848,45-54,"Tokyo, Japan",Male,46.44,Overnight,4.21,Yes,87
+P3644,Slippers,Footwear,156.53,5,5,368,S372,25-34,"Cape Town, South Africa",Female,19.75,Overnight,8.56,No,79
+P7352,Speaker,Electronics,1522.38,15,5,174,S684,35-44,"Toronto, Canada",Male,39.16,Overnight,4.98,Yes,29
+P5338,Dishwasher,Home Appliances,761.64,25,10,146,S141,35-44,"London, UK",Female,2.67,Standard,16.03,Yes,93
+P1044,Microwave,Home Appliances,523.92,25,15,319,S530,35-44,"Toronto, Canada",Female,32.17,Express,13.56,No,31
+P6062,Boots,Footwear,411.96,0,8,99,S190,25-34,"Berlin, Germany",Non-Binary,31.43,Standard,16.95,No,62
+P9179,Shirt,Apparel,665.02,25,15,470,S471,55+,"Toronto, Canada",Female,49.6,Express,16.92,No,24
+P6931,Formal Shoes,Footwear,1216.44,0,8,292,S110,25-34,"Dubai, UAE",Non-Binary,1.91,Express,13.86,Yes,29
+P1378,Graphic Novels,Books,1694.09,25,15,103,S476,18-24,"Paris, France",Female,10.93,Express,5.98,No,32
+P1747,Magazines,Books,123.44,20,15,379,S161,25-34,"London, UK",Female,37.44,Overnight,19.91,No,94
+P3750,Running Shoes,Footwear,1239.66,25,5,450,S533,25-34,"Houston, USA",Male,26.3,Overnight,6.6,No,40
+P7503,Slippers,Footwear,1937.38,25,12,362,S392,45-54,"Mumbai, India",Female,30.15,Express,9.23,Yes,77
+P3874,Magazines,Books,1140.51,25,10,460,S555,35-44,"Mumbai, India",Non-Binary,36.34,Overnight,9.77,No,64
+P2897,Jeans,Apparel,906.96,0,5,94,S798,25-34,"Cape Town, South Africa",Female,36.23,Express,11.33,No,36
+P1730,Monitor,Electronics,198.99,0,12,374,S220,55+,"Cape Town, South Africa",Male,0.93,Express,3.02,No,30
+P8587,T-shirt,Apparel,813.8,25,8,321,S865,55+,"Sydney, Australia",Non-Binary,31.35,Overnight,4.74,No,26
+P4309,Jacket,Apparel,955.14,20,8,190,S796,25-34,"Los Angeles, USA",Non-Binary,36.41,Express,18.37,No,72
+P1633,Dress,Apparel,1403.12,20,8,271,S584,55+,"Chicago, USA",Female,35.66,Express,12.59,Yes,50
+P3367,Smartwatch,Electronics,1521.26,5,12,140,S251,45-54,"Chicago, USA",Non-Binary,35.32,Overnight,9.51,Yes,36
+P7030,Non-Fiction,Books,701.06,5,15,407,S168,35-44,"Phoenix, USA",Non-Binary,18.81,Standard,13.62,No,18
+P1003,Dishwasher,Home Appliances,1110.61,0,12,14,S827,55+,"Paris, France",Non-Binary,19.93,Express,5.84,No,83
+P4761,Toaster,Home Appliances,1411.58,0,15,32,S681,25-34,"Phoenix, USA",Non-Binary,2.82,Overnight,9.47,Yes,94
+P4145,Toaster,Home Appliances,1339.73,20,5,222,S195,25-34,"Cape Town, South Africa",Non-Binary,41.32,Standard,17.35,No,77
+P2361,Skirt,Apparel,58.16,15,12,301,S436,25-34,"New York, USA",Female,17.55,Overnight,19.93,Yes,87
+P9180,Gaming Console,Electronics,1752.15,5,10,137,S218,55+,"Mumbai, India",Female,36.97,Express,16.84,Yes,30
+P1153,Socks,Apparel,1137.44,15,12,371,S611,55+,Singapore,Non-Binary,49.98,Standard,14.46,Yes,21
+P1309,Sandals,Footwear,1164.75,5,10,63,S968,25-34,"Paris, France",Male,11.14,Express,18.95,No,50
+P3548,Refrigerator,Home Appliances,502.61,10,15,460,S583,55+,"Mumbai, India",Non-Binary,46.98,Overnight,4.79,No,84
+P1134,Shorts,Apparel,1176.02,10,15,58,S655,35-44,"Dubai, UAE",Female,10.14,Overnight,3.39,Yes,83
+P3236,Dishwasher,Home Appliances,1667.7,0,15,330,S372,35-44,"Berlin, Germany",Non-Binary,8.7,Express,19.64,Yes,54
+P8556,Sneakers,Footwear,1724.86,10,10,364,S104,45-54,"Sydney, Australia",Non-Binary,45.22,Standard,6.91,No,48
+P3542,Graphic Novels,Books,1103.34,10,10,14,S706,45-54,"Houston, USA",Non-Binary,17.55,Overnight,4.59,Yes,1
+P5159,Shirt,Apparel,346.82,20,12,114,S250,45-54,"Cape Town, South Africa",Female,4.96,Express,16.52,No,14
+P7832,Dishwasher,Home Appliances,1473.11,0,12,295,S501,45-54,"Toronto, Canada",Female,35.1,Overnight,11.1,Yes,71
+P8531,Camera,Electronics,536.45,25,15,380,S888,35-44,"Sydney, Australia",Male,41.18,Express,2.53,No,63
+P3970,Non-Fiction,Books,1462.2,15,5,413,S591,45-54,"Sydney, Australia",Female,8.74,Express,14.16,Yes,91
+P3300,Jeans,Apparel,1364.13,25,8,190,S217,45-54,"Sydney, Australia",Male,15.72,Standard,4.14,No,23
+P2047,Laptop,Electronics,1834.08,10,15,279,S106,18-24,"Dubai, UAE",Non-Binary,8.76,Express,8.7,Yes,3
+P4960,Headphones,Electronics,1123.7,20,8,249,S547,25-34,"New York, USA",Male,20.87,Overnight,17.2,No,45
+P3578,Graphic Novels,Books,1628.11,10,10,158,S804,18-24,"Cape Town, South Africa",Female,31.73,Overnight,7.32,Yes,28
+P1714,Jacket,Apparel,42.68,10,8,386,S640,25-34,"Paris, France",Female,40.26,Express,10.86,Yes,81
+P8001,Speaker,Electronics,1812.41,25,8,331,S360,55+,Singapore,Non-Binary,49.03,Overnight,13.13,Yes,48
+P3025,Boots,Footwear,1141.99,20,10,424,S468,35-44,"Tokyo, Japan",Non-Binary,39.73,Overnight,14.26,No,61
+P8011,Slippers,Footwear,423.17,0,15,24,S800,18-24,"Cape Town, South Africa",Non-Binary,15.86,Overnight,5.96,Yes,49
+P8126,Non-Fiction,Books,70.19,10,15,323,S678,18-24,"Los Angeles, USA",Male,40.04,Express,15.94,Yes,82
+P3748,Formal Shoes,Footwear,155.68,25,12,8,S115,55+,"London, UK",Female,21.01,Standard,15.68,No,89
+P1267,Smartphone,Electronics,92.93,25,10,126,S239,35-44,"Dubai, UAE",Female,29.72,Standard,16.7,Yes,95
+P3461,Smartwatch,Electronics,1189.17,10,15,315,S696,35-44,"Sydney, Australia",Female,41.55,Express,9.55,Yes,69
+P5401,Toaster,Home Appliances,1576.74,20,5,75,S512,35-44,"Tokyo, Japan",Male,35.05,Express,18.39,Yes,3
+P1293,Sneakers,Footwear,1827.23,15,12,269,S786,18-24,"London, UK",Non-Binary,22.12,Express,2.41,Yes,24
+P5828,Smartphone,Electronics,1912.3,20,8,240,S584,35-44,"Chicago, USA",Non-Binary,16.61,Overnight,15.19,Yes,47
+P1198,Gaming Console,Electronics,170.81,25,8,386,S203,45-54,"Dubai, UAE",Non-Binary,34.41,Express,18.14,Yes,40
+P3796,Shorts,Apparel,371.13,25,10,489,S664,18-24,"Mumbai, India",Non-Binary,47.65,Standard,18.01,No,68
+P1308,Headphones,Electronics,433.57,5,5,261,S871,55+,"Dubai, UAE",Female,19.03,Standard,18.01,Yes,90
+P8201,Blender,Home Appliances,1750.33,0,10,411,S265,18-24,"Cape Town, South Africa",Female,38.5,Express,11.34,Yes,28
+P6210,Fiction,Books,1728.94,10,15,444,S273,55+,"Paris, France",Non-Binary,25.61,Express,3.67,No,81
+P8850,Headphones,Electronics,1724.4,5,8,132,S748,18-24,"Houston, USA",Non-Binary,42.26,Overnight,2.3,No,67
+P5299,Jeans,Apparel,158.61,25,15,282,S126,55+,"Toronto, Canada",Male,1.81,Overnight,17.11,Yes,68
+P1042,Graphic Novels,Books,911.59,0,5,145,S694,55+,"Phoenix, USA",Female,22.8,Standard,3.62,No,72
+P8743,Sweater,Apparel,1114.75,25,12,213,S841,35-44,"Los Angeles, USA",Non-Binary,3.8,Overnight,17.9,No,25
+P8455,Non-Fiction,Books,1045.22,5,5,199,S736,25-34,"Tokyo, Japan",Male,18.86,Standard,18.59,No,84
+P1152,Skirt,Apparel,1464.33,15,12,162,S643,18-24,"Cape Town, South Africa",Non-Binary,29.82,Overnight,9.29,Yes,75
+P2608,Sneakers,Footwear,1941.76,0,10,330,S724,18-24,"Toronto, Canada",Non-Binary,7.61,Express,13.4,No,48
+P6889,Biographies,Books,1943.68,20,15,299,S231,35-44,"Tokyo, Japan",Non-Binary,2.4,Standard,3.06,No,80
+P1821,Skirt,Apparel,1596.91,5,5,485,S607,55+,"Houston, USA",Female,18.46,Overnight,12.71,Yes,53
+P6545,Camera,Electronics,881.91,25,8,383,S486,35-44,"Phoenix, USA",Non-Binary,14.44,Standard,9.17,No,5
+P4616,Skirt,Apparel,101.04,0,5,210,S815,55+,"London, UK",Female,4.15,Overnight,6.18,No,16
+P2942,Sneakers,Footwear,1518.64,5,12,146,S120,45-54,"Paris, France",Male,48.08,Standard,8.78,Yes,8
+P4654,Jeans,Apparel,1078.84,15,8,482,S564,35-44,"Phoenix, USA",Male,28.76,Express,18.81,Yes,6
+P4767,Tablet,Electronics,687.6,0,10,110,S724,45-54,"Chicago, USA",Male,14.25,Standard,7.58,Yes,79
+P2556,Blender,Home Appliances,324.36,15,12,404,S232,35-44,"Cape Town, South Africa",Non-Binary,18.96,Express,14.92,No,30
+P3444,Fiction,Books,1919.46,20,15,100,S705,35-44,"Dubai, UAE",Female,0.67,Overnight,11.36,Yes,92
+P4595,Biographies,Books,1000.23,15,12,406,S431,25-34,"Toronto, Canada",Non-Binary,9.35,Standard,4.51,No,31
+P5350,Toaster,Home Appliances,1070.3,0,10,495,S619,55+,"Los Angeles, USA",Female,31.01,Overnight,6.41,No,67
+P2046,Dress,Apparel,1085.77,25,5,109,S193,25-34,"New York, USA",Female,7.48,Standard,8.55,No,73
+P3053,Flats,Footwear,1630.38,0,15,214,S234,25-34,"New York, USA",Male,20.77,Express,8.45,Yes,93
+P7540,Socks,Apparel,1676.12,20,12,106,S474,55+,"Paris, France",Non-Binary,44.32,Overnight,4.82,No,16
+P1214,Shorts,Apparel,921.73,15,12,122,S900,45-54,"Toronto, Canada",Non-Binary,44.18,Standard,16.64,No,80
+P4118,Gaming Console,Electronics,210.39,0,12,430,S623,18-24,"Los Angeles, USA",Female,20.27,Express,16.88,No,87
+P7263,Comics,Books,884.51,10,8,484,S977,45-54,"Mumbai, India",Male,38.21,Express,14.08,No,69
+P2213,Shorts,Apparel,1018.16,15,12,202,S675,18-24,"Tokyo, Japan",Non-Binary,16.81,Standard,17.11,No,59
+P4043,Shorts,Apparel,862.12,15,12,131,S395,45-54,"New York, USA",Non-Binary,49.45,Standard,14.07,Yes,83
+P3903,Camera,Electronics,752.29,10,10,324,S116,18-24,"Houston, USA",Male,49.13,Overnight,8.62,Yes,95
+P9692,Sandals,Footwear,1461.08,15,8,282,S230,35-44,"London, UK",Male,18.74,Standard,8.71,Yes,0
+P3395,Gaming Console,Electronics,1487.32,0,10,240,S458,55+,Singapore,Female,20.79,Standard,18.63,No,72
+P3536,Smartwatch,Electronics,181.37,15,10,219,S675,35-44,"Houston, USA",Non-Binary,40.89,Express,11.44,Yes,26
+P8001,Monitor,Electronics,1363.21,0,15,362,S682,55+,"Houston, USA",Female,36.21,Overnight,18.14,No,61
+P8495,Hiking Shoes,Footwear,536.61,25,5,325,S261,55+,"Berlin, Germany",Male,30.66,Standard,9.75,No,74
+P8660,Sweater,Apparel,1100.07,25,12,241,S816,35-44,"Paris, France",Female,23.25,Standard,13.75,No,59
+P4897,Heels,Footwear,1023.11,15,15,306,S134,45-54,"Mumbai, India",Male,24.5,Standard,17.38,Yes,64
+P2790,Hiking Shoes,Footwear,1614.96,20,5,251,S375,25-34,"Sydney, Australia",Male,2.77,Overnight,10.27,No,50
+P3307,Laptop,Electronics,1984.75,5,10,102,S703,25-34,"Berlin, Germany",Male,24.53,Overnight,13.89,Yes,84
+P6367,Laptop,Electronics,444.69,0,5,340,S800,35-44,"Dubai, UAE",Male,4.99,Express,16.0,No,47
+P2382,Refrigerator,Home Appliances,1151.8,0,12,285,S904,18-24,"Dubai, UAE",Female,14.77,Standard,4.0,No,8
+P5227,Vacuum Cleaner,Home Appliances,1760.97,20,12,358,S572,35-44,"Dubai, UAE",Female,14.56,Standard,19.73,No,54
+P5068,Laptop,Electronics,1432.29,15,15,249,S119,35-44,"Cape Town, South Africa",Female,13.55,Express,5.73,No,70
+P8910,Air Conditioner,Home Appliances,1357.27,5,5,381,S562,55+,"Berlin, Germany",Female,42.9,Standard,1.83,No,18
+P4160,Sandals,Footwear,1897.24,25,10,388,S929,18-24,"Houston, USA",Female,32.13,Express,10.49,No,50
+P4266,Biographies,Books,638.16,5,15,351,S307,45-54,"Sydney, Australia",Non-Binary,15.28,Express,18.77,Yes,46
+P1266,Slippers,Footwear,1813.67,25,5,470,S632,35-44,"Dubai, UAE",Female,26.04,Overnight,1.24,No,84
+P5162,Smartphone,Electronics,787.78,25,5,169,S218,25-34,"Dubai, UAE",Male,22.12,Standard,4.79,Yes,75
+P8521,Dishwasher,Home Appliances,1124.05,0,10,136,S639,18-24,"Phoenix, USA",Female,2.22,Express,14.03,No,0
+P8812,Shorts,Apparel,280.65,0,8,435,S514,35-44,"Cape Town, South Africa",Female,46.99,Standard,8.52,No,69
+P1094,Gaming Console,Electronics,373.91,0,12,59,S896,45-54,"Phoenix, USA",Female,8.14,Express,8.66,No,53
+P9773,Speaker,Electronics,1042.08,25,10,61,S625,55+,"Tokyo, Japan",Non-Binary,32.94,Standard,3.67,Yes,86
+P7727,Graphic Novels,Books,1794.71,15,12,370,S360,25-34,"Paris, France",Non-Binary,15.07,Standard,8.39,Yes,2
+P1758,Tablet,Electronics,189.01,0,10,469,S229,18-24,"Mumbai, India",Non-Binary,42.06,Express,11.11,No,8
+P8349,Blender,Home Appliances,137.55,15,8,278,S621,55+,"Toronto, Canada",Female,4.85,Overnight,11.79,Yes,70
+P7762,Toaster,Home Appliances,152.86,20,15,175,S427,55+,"Cape Town, South Africa",Non-Binary,19.16,Standard,1.18,Yes,48
+P7514,Camera,Electronics,769.42,25,8,353,S825,35-44,"London, UK",Non-Binary,38.97,Overnight,8.14,No,92
+P3653,Sweater,Apparel,1018.38,10,10,486,S167,35-44,"Berlin, Germany",Non-Binary,5.64,Overnight,16.7,No,77
+P8441,Heels,Footwear,1598.83,0,12,145,S767,18-24,"Chicago, USA",Male,41.48,Overnight,17.07,No,14
+P4799,Magazines,Books,165.96,15,15,44,S981,55+,"Tokyo, Japan",Male,22.35,Standard,19.66,No,20
+P4978,Socks,Apparel,1690.06,10,5,369,S829,18-24,"Toronto, Canada",Non-Binary,41.78,Express,7.2,No,54
+P5681,Shorts,Apparel,1216.15,20,5,421,S500,45-54,"New York, USA",Female,42.9,Overnight,4.5,No,54
+P5717,Jacket,Apparel,1584.12,10,5,450,S309,18-24,Singapore,Female,7.82,Express,9.05,Yes,64
+P2852,Blender,Home Appliances,541.88,5,10,202,S681,45-54,"Mumbai, India",Male,37.01,Standard,6.18,No,11
+P8090,Textbooks,Books,507.78,0,8,99,S228,45-54,"Toronto, Canada",Female,12.68,Express,16.37,Yes,60
+P7194,Smartwatch,Electronics,1203.27,0,10,56,S780,25-34,"Los Angeles, USA",Male,34.33,Express,8.74,Yes,71
+P7999,Camera,Electronics,1570.13,0,5,132,S908,35-44,"Cape Town, South Africa",Female,17.69,Express,5.48,Yes,83
+P7018,Refrigerator,Home Appliances,620.3,10,15,285,S927,18-24,"Sydney, Australia",Male,28.86,Overnight,4.41,Yes,20
+P5507,Comics,Books,357.22,15,8,99,S688,35-44,"Phoenix, USA",Female,41.89,Express,16.8,No,26
+P2428,Shirt,Apparel,1558.58,25,5,226,S923,45-54,"Toronto, Canada",Male,26.06,Express,10.89,Yes,71
+P1728,Formal Shoes,Footwear,58.49,10,8,275,S486,55+,"Dubai, UAE",Female,25.19,Overnight,17.16,Yes,4
+P1879,Textbooks,Books,1094.12,10,8,277,S920,45-54,"Phoenix, USA",Male,44.19,Overnight,4.72,No,67
+P2486,Laptop,Electronics,1523.12,0,5,119,S616,55+,Singapore,Male,48.37,Overnight,1.58,No,68
+P3426,Blender,Home Appliances,1076.43,10,8,12,S373,35-44,"Paris, France",Female,41.78,Standard,4.09,No,68
+P8879,Dress,Apparel,467.72,25,10,455,S961,55+,"Toronto, Canada",Female,6.17,Standard,11.3,Yes,20
+P4570,Dress,Apparel,877.2,15,5,171,S573,45-54,"Tokyo, Japan",Male,27.0,Standard,4.4,Yes,21
+P1612,Headphones,Electronics,1475.35,15,15,382,S254,55+,"Sydney, Australia",Male,39.69,Standard,6.86,No,77
+P1197,Smartwatch,Electronics,1887.56,20,5,448,S428,25-34,"New York, USA",Male,5.1,Express,18.77,No,35
+P6450,Laptop,Electronics,1967.21,10,12,242,S654,55+,"Paris, France",Female,23.93,Express,8.32,No,92
+P4778,Dishwasher,Home Appliances,1327.16,25,15,173,S909,25-34,"New York, USA",Female,29.81,Standard,18.47,Yes,48
+P7938,Graphic Novels,Books,1836.88,5,12,253,S221,35-44,"Berlin, Germany",Non-Binary,32.05,Standard,9.86,No,45
+P2478,Microwave,Home Appliances,887.28,25,8,299,S255,18-24,"Los Angeles, USA",Female,28.92,Overnight,14.35,No,14
+P3968,Refrigerator,Home Appliances,1580.85,5,5,217,S608,45-54,Singapore,Male,44.05,Standard,5.53,No,6
+P8209,Magazines,Books,518.39,0,15,168,S287,45-54,"Cape Town, South Africa",Female,6.02,Express,7.78,No,71
+P4137,Dress,Apparel,1182.07,20,8,172,S775,55+,"New York, USA",Male,49.68,Standard,16.89,No,85
+P7284,Graphic Novels,Books,1206.21,25,5,320,S398,25-34,Singapore,Non-Binary,19.96,Standard,17.41,Yes,46
+P8263,Sandals,Footwear,1842.72,15,12,177,S386,35-44,"London, UK",Male,3.48,Standard,4.47,Yes,34
+P9786,Refrigerator,Home Appliances,1987.92,10,10,446,S705,25-34,"Phoenix, USA",Male,14.55,Standard,17.32,Yes,65
+P1304,Monitor,Electronics,664.23,25,5,245,S893,35-44,"Berlin, Germany",Male,22.51,Overnight,14.09,Yes,77
+P5394,Flats,Footwear,1157.06,0,5,497,S182,45-54,"Paris, France",Male,40.05,Overnight,7.76,No,67
+P1927,Dishwasher,Home Appliances,216.98,25,10,10,S269,25-34,"Mumbai, India",Non-Binary,32.44,Express,11.25,No,65
+P9069,Formal Shoes,Footwear,642.43,25,5,95,S598,45-54,"Chicago, USA",Female,11.05,Standard,5.58,Yes,88
+P2588,Cookbooks,Books,749.17,10,12,240,S681,18-24,"Cape Town, South Africa",Male,40.35,Overnight,14.92,Yes,6
+P7361,Smartwatch,Electronics,935.32,10,15,138,S972,55+,"Phoenix, USA",Male,29.6,Overnight,16.25,No,56
+P2131,Gaming Console,Electronics,845.13,5,15,210,S969,55+,"Berlin, Germany",Male,39.62,Overnight,8.34,No,63
+P9202,Monitor,Electronics,1865.96,15,15,47,S581,18-24,"Sydney, Australia",Male,46.17,Overnight,16.74,Yes,76
+P4486,Dishwasher,Home Appliances,179.84,10,8,198,S304,18-24,"Los Angeles, USA",Female,35.03,Standard,6.59,Yes,77
+P8735,Laptop,Electronics,1322.18,20,12,72,S168,45-54,"Chicago, USA",Male,43.46,Standard,15.52,Yes,17
+P3653,Non-Fiction,Books,478.8,25,5,242,S876,35-44,"Dubai, UAE",Male,11.53,Standard,14.64,Yes,13
+P1402,Magazines,Books,1142.7,0,12,487,S683,55+,"Phoenix, USA",Female,25.59,Express,12.74,No,22
+P3130,Toaster,Home Appliances,1987.2,25,12,189,S259,18-24,Singapore,Male,24.17,Overnight,2.11,No,48
+P4103,Cookbooks,Books,1785.25,0,10,210,S562,35-44,"Chicago, USA",Female,24.85,Standard,19.47,No,83
+P8352,Shorts,Apparel,148.19,25,15,298,S158,45-54,"Chicago, USA",Non-Binary,20.8,Standard,11.72,No,41
+P7776,Washing Machine,Home Appliances,444.61,10,10,130,S652,45-54,"Berlin, Germany",Female,41.08,Overnight,15.61,Yes,9
+P7491,Air Conditioner,Home Appliances,1381.51,5,5,255,S431,25-34,"London, UK",Male,5.79,Overnight,10.5,Yes,33
+P9844,Smartphone,Electronics,644.95,15,5,81,S125,25-34,"London, UK",Male,25.01,Standard,15.73,No,12
+P5218,Gaming Console,Electronics,1660.22,10,5,353,S586,55+,Singapore,Male,33.46,Express,8.79,No,69
+P9218,Sneakers,Footwear,868.17,5,8,213,S330,25-34,"Sydney, Australia",Female,41.37,Standard,5.71,No,57
+P4226,Vacuum Cleaner,Home Appliances,485.38,20,8,344,S599,45-54,"Cape Town, South Africa",Female,34.78,Standard,10.95,Yes,74
+P8228,Magazines,Books,839.47,5,12,286,S615,25-34,"Tokyo, Japan",Male,0.97,Express,16.69,Yes,79
+P3310,Formal Shoes,Footwear,957.86,5,10,78,S985,25-34,"Cape Town, South Africa",Non-Binary,45.28,Express,18.9,Yes,78
+P3031,Laptop,Electronics,1398.6,0,12,188,S432,18-24,"Tokyo, Japan",Non-Binary,3.91,Standard,2.25,Yes,93
+P3712,Skirt,Apparel,662.16,20,12,483,S915,18-24,"Toronto, Canada",Female,43.17,Standard,5.25,No,22
+P2139,Toaster,Home Appliances,1105.92,25,10,54,S596,25-34,"Toronto, Canada",Female,34.52,Express,11.96,Yes,91
+P5362,Textbooks,Books,1439.03,0,5,466,S171,45-54,"Chicago, USA",Male,30.05,Standard,1.28,Yes,53
+P7075,Heels,Footwear,1380.98,25,15,208,S125,55+,"Los Angeles, USA",Non-Binary,3.79,Overnight,17.23,No,44
+P6404,Camera,Electronics,1637.93,25,15,425,S850,25-34,"Cape Town, South Africa",Female,3.33,Express,3.58,No,3
+P6046,Gaming Console,Electronics,662.23,25,12,41,S859,35-44,"Houston, USA",Male,37.71,Express,8.69,No,54
+P3391,Textbooks,Books,342.82,5,5,404,S632,45-54,"Los Angeles, USA",Male,46.49,Overnight,10.41,No,73
+P2062,Fiction,Books,1282.51,0,12,30,S750,45-54,"Cape Town, South Africa",Male,31.13,Overnight,14.02,No,47
+P2011,Biographies,Books,1905.61,20,5,270,S471,35-44,"Los Angeles, USA",Female,48.77,Overnight,13.12,No,45
+P1477,Washing Machine,Home Appliances,1141.27,0,15,141,S323,25-34,"New York, USA",Non-Binary,8.02,Express,16.12,Yes,8
+P3711,Washing Machine,Home Appliances,1653.37,15,15,242,S336,18-24,"New York, USA",Male,11.75,Overnight,1.88,Yes,14
+P4753,Dress,Apparel,1218.69,25,8,421,S914,35-44,"Los Angeles, USA",Female,34.47,Standard,7.04,Yes,24
+P7484,Washing Machine,Home Appliances,1496.02,15,10,305,S312,55+,"Chicago, USA",Male,9.89,Overnight,12.46,No,76
+P5862,Cookbooks,Books,770.17,0,8,258,S900,55+,"London, UK",Non-Binary,32.8,Express,4.45,Yes,66
+P8003,Formal Shoes,Footwear,1917.16,25,8,341,S441,35-44,"Sydney, Australia",Non-Binary,33.51,Express,13.85,No,61
+P8937,Cookbooks,Books,60.06,20,10,259,S547,45-54,"Paris, France",Male,43.88,Express,9.2,No,67
+P8490,Running Shoes,Footwear,1920.95,20,5,256,S657,25-34,"Dubai, UAE",Non-Binary,24.7,Overnight,2.79,Yes,86
+P9624,Non-Fiction,Books,1858.49,25,8,387,S298,25-34,Singapore,Non-Binary,0.9,Express,1.76,Yes,51
+P5157,Microwave,Home Appliances,1623.22,20,5,161,S581,18-24,"Cape Town, South Africa",Female,19.44,Express,12.87,No,25
+P3230,Jeans,Apparel,1844.48,15,15,364,S289,25-34,"London, UK",Male,16.06,Overnight,14.09,Yes,10
+P6620,Shirt,Apparel,1208.29,20,15,31,S831,35-44,"Chicago, USA",Male,30.49,Standard,2.9,No,47
+P4318,Heels,Footwear,537.29,5,5,139,S961,45-54,"New York, USA",Non-Binary,37.52,Overnight,7.5,No,15
+P7512,Non-Fiction,Books,1351.21,10,15,409,S938,55+,"Sydney, Australia",Non-Binary,47.25,Express,1.49,Yes,15
+P8855,T-shirt,Apparel,58.07,5,5,400,S362,18-24,"Chicago, USA",Male,15.12,Standard,11.06,Yes,54
+P3295,Vacuum Cleaner,Home Appliances,1402.45,10,5,248,S134,35-44,"Toronto, Canada",Male,39.87,Standard,17.96,Yes,58
+P9482,Sneakers,Footwear,1921.6,25,10,163,S313,35-44,"Sydney, Australia",Female,15.44,Standard,1.54,Yes,17
+P5054,Slippers,Footwear,1159.3,5,12,363,S959,25-34,"Mumbai, India",Non-Binary,19.31,Express,19.04,No,39
+P9634,Air Conditioner,Home Appliances,1226.32,20,8,128,S255,55+,"Chicago, USA",Female,20.77,Standard,12.4,Yes,75
+P4131,Refrigerator,Home Appliances,1357.74,15,15,8,S697,25-34,"Dubai, UAE",Female,33.83,Express,8.26,Yes,24
+P4441,Air Conditioner,Home Appliances,951.58,20,12,244,S449,45-54,"Paris, France",Male,12.94,Standard,17.86,Yes,75
+P9804,Heels,Footwear,351.83,10,15,410,S123,25-34,"Berlin, Germany",Female,44.49,Standard,18.49,No,36
+P2773,Microwave,Home Appliances,1309.5,0,8,11,S544,45-54,"Paris, France",Female,3.7,Express,13.09,Yes,86
+P8564,Formal Shoes,Footwear,595.64,15,15,315,S851,45-54,"Los Angeles, USA",Male,3.32,Express,5.82,Yes,42
+P4132,Dishwasher,Home Appliances,698.3,25,12,195,S491,18-24,"Paris, France",Non-Binary,38.87,Standard,11.58,Yes,50
+P1844,Toaster,Home Appliances,59.84,15,8,70,S499,35-44,"Berlin, Germany",Female,11.36,Standard,10.4,Yes,61
+P5585,Non-Fiction,Books,1988.73,0,8,124,S828,55+,"Mumbai, India",Female,10.34,Standard,1.92,Yes,41
+P7597,Washing Machine,Home Appliances,1322.67,10,8,485,S806,45-54,"Houston, USA",Male,44.05,Express,15.46,No,66
+P3899,Monitor,Electronics,777.32,0,5,409,S851,55+,"Dubai, UAE",Male,16.82,Express,10.05,Yes,38
+P9969,Fiction,Books,1477.67,20,10,200,S988,55+,"Mumbai, India",Male,17.75,Express,5.51,Yes,35
+P8619,Speaker,Electronics,1240.33,25,10,443,S325,55+,Singapore,Female,10.78,Overnight,1.58,Yes,90
+P4331,Camera,Electronics,82.33,15,10,345,S688,18-24,"New York, USA",Non-Binary,37.33,Standard,16.17,No,41
+P4970,Slippers,Footwear,517.4,0,15,179,S405,18-24,"Los Angeles, USA",Non-Binary,28.12,Express,12.13,No,26
+P9189,Magazines,Books,43.18,25,8,60,S149,25-34,"New York, USA",Female,30.7,Express,7.66,No,79
+P7766,Hiking Shoes,Footwear,1780.56,15,15,58,S967,18-24,"Berlin, Germany",Non-Binary,25.13,Express,15.99,Yes,53
+P1486,Refrigerator,Home Appliances,645.66,20,15,22,S104,18-24,"London, UK",Female,16.19,Overnight,14.0,Yes,79
+P9450,Monitor,Electronics,1464.66,0,12,162,S852,55+,Singapore,Female,5.85,Express,4.6,Yes,64
+P5898,Running Shoes,Footwear,705.54,5,15,472,S493,18-24,"Sydney, Australia",Male,10.54,Express,18.49,No,55
+P3769,Textbooks,Books,1485.45,10,8,299,S712,35-44,"Sydney, Australia",Non-Binary,44.09,Standard,16.0,No,44
+P7106,Gaming Console,Electronics,989.37,25,5,427,S836,45-54,"Paris, France",Non-Binary,29.69,Standard,19.35,No,25
+P6509,Textbooks,Books,186.64,5,8,185,S139,18-24,Singapore,Male,19.37,Overnight,3.03,No,44
+P2298,Slippers,Footwear,261.93,25,15,110,S677,25-34,"Chicago, USA",Male,16.21,Standard,17.03,No,73
+P6096,T-shirt,Apparel,63.94,0,10,55,S802,25-34,"Chicago, USA",Female,48.77,Express,1.41,No,10
+P9959,Washing Machine,Home Appliances,1317.77,15,10,418,S369,55+,"Mumbai, India",Non-Binary,45.23,Overnight,12.99,No,7
+P1250,Comics,Books,690.92,5,8,108,S904,35-44,"Sydney, Australia",Non-Binary,5.04,Standard,5.2,No,62
+P6581,Blender,Home Appliances,1667.74,5,5,351,S236,25-34,"Houston, USA",Female,22.04,Express,19.6,No,25
+P2353,Smartphone,Electronics,1169.2,20,12,237,S498,45-54,"Cape Town, South Africa",Male,23.49,Overnight,8.25,No,83
+P7225,Heels,Footwear,575.39,20,15,74,S801,18-24,"Sydney, Australia",Male,20.76,Express,8.2,Yes,2
+P1735,Speaker,Electronics,846.32,0,12,79,S219,18-24,"Mumbai, India",Female,39.38,Overnight,11.8,No,55
+P5660,Sweater,Apparel,1903.71,5,12,476,S951,55+,"Toronto, Canada",Non-Binary,8.53,Standard,16.06,Yes,16
+P5818,Sandals,Footwear,938.41,5,15,409,S239,35-44,"Phoenix, USA",Male,0.08,Standard,19.75,No,94
+P7877,Laptop,Electronics,1819.34,5,8,468,S384,35-44,"Berlin, Germany",Male,29.9,Express,18.77,No,44
+P8159,Toaster,Home Appliances,455.58,5,12,255,S242,45-54,"Houston, USA",Male,5.94,Standard,15.7,No,42
+P3728,Vacuum Cleaner,Home Appliances,1209.4,20,15,254,S113,55+,"London, UK",Female,45.75,Standard,19.23,No,5
+P2283,Smartwatch,Electronics,620.85,25,15,111,S647,35-44,"Sydney, Australia",Non-Binary,34.93,Overnight,17.92,Yes,1
+P9113,Shirt,Apparel,735.28,10,10,380,S158,25-34,"Cape Town, South Africa",Male,33.71,Standard,6.88,No,64
+P1034,Heels,Footwear,66.96,15,15,436,S225,45-54,"Tokyo, Japan",Non-Binary,32.19,Standard,4.17,No,20
+P3706,Non-Fiction,Books,54.21,5,12,166,S628,25-34,"Toronto, Canada",Female,34.71,Overnight,11.58,No,1
+P5705,Comics,Books,265.46,15,12,117,S144,35-44,"Cape Town, South Africa",Male,26.26,Overnight,9.31,Yes,66
+P4726,Flats,Footwear,335.15,5,5,198,S445,25-34,"Mumbai, India",Female,12.66,Overnight,2.28,No,25
+P2217,Jeans,Apparel,1671.19,5,8,313,S496,35-44,"Paris, France",Male,23.77,Express,5.07,Yes,15
+P3461,Gaming Console,Electronics,1651.11,15,10,117,S818,55+,"New York, USA",Male,20.4,Express,12.27,Yes,94
+P2797,Washing Machine,Home Appliances,231.98,10,15,283,S323,35-44,"Berlin, Germany",Female,28.62,Express,13.8,Yes,65
+P1841,Biographies,Books,1607.7,0,12,494,S823,25-34,"Cape Town, South Africa",Non-Binary,26.2,Express,19.12,Yes,15
+P2601,Fiction,Books,1939.14,0,15,40,S490,55+,"Los Angeles, USA",Male,35.65,Express,17.13,No,66
+P9259,Comics,Books,1967.25,5,5,437,S214,25-34,"Tokyo, Japan",Non-Binary,45.76,Standard,5.68,Yes,75
+P1485,Boots,Footwear,1843.46,10,8,462,S857,18-24,"Cape Town, South Africa",Female,3.84,Express,8.77,No,26
+P5469,Comics,Books,1917.46,20,8,147,S614,45-54,"Toronto, Canada",Male,12.15,Overnight,10.2,Yes,42
+P9646,Sneakers,Footwear,1858.85,0,5,92,S864,35-44,"Sydney, Australia",Male,3.55,Express,9.81,Yes,88
+P5373,Non-Fiction,Books,895.97,15,10,170,S212,35-44,"Paris, France",Female,33.74,Express,6.6,Yes,45
+P1328,Headphones,Electronics,1902.95,25,15,340,S153,55+,"Mumbai, India",Non-Binary,5.55,Express,9.34,Yes,58
+P8675,Blender,Home Appliances,1648.03,15,5,396,S463,25-34,"London, UK",Non-Binary,0.32,Overnight,6.25,No,94
+P2593,Washing Machine,Home Appliances,291.96,5,5,175,S241,35-44,"Los Angeles, USA",Male,19.42,Express,17.74,No,9
+P2832,Formal Shoes,Footwear,1509.28,15,8,378,S560,35-44,"Houston, USA",Non-Binary,40.96,Overnight,8.34,Yes,39
+P9840,Washing Machine,Home Appliances,1056.08,0,10,262,S469,55+,Singapore,Male,5.16,Overnight,9.96,No,81
+P7660,T-shirt,Apparel,129.04,25,8,275,S557,45-54,"Dubai, UAE",Male,14.85,Express,4.86,Yes,24
+P8061,Formal Shoes,Footwear,1126.1,20,12,436,S186,35-44,"Houston, USA",Male,23.72,Express,13.89,No,45
+P7044,Tablet,Electronics,771.9,20,15,383,S716,35-44,"Toronto, Canada",Non-Binary,8.29,Express,12.54,No,43
+P7575,Microwave,Home Appliances,1112.29,20,10,255,S196,18-24,"New York, USA",Non-Binary,35.08,Overnight,18.95,Yes,80
+P8986,Fiction,Books,981.11,0,5,198,S339,45-54,"Toronto, Canada",Female,33.84,Standard,16.68,Yes,92
+P7318,Running Shoes,Footwear,133.94,20,15,217,S549,45-54,"Sydney, Australia",Non-Binary,12.98,Standard,2.38,Yes,42
+P4062,Running Shoes,Footwear,663.62,5,5,312,S528,55+,"Sydney, Australia",Non-Binary,14.83,Overnight,18.16,Yes,87
+P5993,Socks,Apparel,369.64,10,10,127,S113,35-44,"London, UK",Non-Binary,36.8,Express,5.04,No,94
+P6269,Flats,Footwear,1840.05,10,15,441,S102,25-34,"Berlin, Germany",Female,42.29,Overnight,15.65,Yes,91
+P1817,Non-Fiction,Books,1017.74,25,15,26,S132,18-24,"Houston, USA",Male,15.9,Standard,19.74,Yes,45
+P8899,Washing Machine,Home Appliances,203.52,25,15,372,S360,55+,"Cape Town, South Africa",Non-Binary,17.65,Express,2.75,Yes,4
+P6004,Gaming Console,Electronics,1111.88,5,8,303,S945,55+,"Toronto, Canada",Male,42.2,Overnight,9.77,No,55
+P5477,Biographies,Books,1506.78,5,5,341,S509,25-34,"Tokyo, Japan",Non-Binary,18.4,Overnight,18.27,No,64
+P6009,Blender,Home Appliances,1320.58,20,12,90,S722,55+,"Paris, France",Female,15.09,Standard,6.19,Yes,4
+P6678,Refrigerator,Home Appliances,1969.59,25,12,323,S463,18-24,"Phoenix, USA",Non-Binary,27.63,Standard,16.68,No,80
+P6706,Washing Machine,Home Appliances,35.7,0,8,410,S978,45-54,"Tokyo, Japan",Non-Binary,49.03,Express,9.98,Yes,68
+P9907,Cookbooks,Books,1308.15,10,15,229,S836,25-34,"Chicago, USA",Female,13.6,Standard,18.88,No,63
+P3598,Flats,Footwear,1650.44,0,5,300,S782,18-24,"New York, USA",Male,41.68,Express,5.3,No,87
+P8233,Socks,Apparel,1366.84,20,12,40,S233,18-24,"Houston, USA",Non-Binary,30.46,Standard,16.4,No,26
+P8957,Socks,Apparel,1664.52,25,10,41,S604,45-54,"London, UK",Non-Binary,9.17,Standard,4.5,No,1
+P5706,Microwave,Home Appliances,552.98,15,5,436,S454,25-34,"Chicago, USA",Non-Binary,32.79,Standard,15.12,No,47
+P8836,Socks,Apparel,794.84,5,12,350,S476,18-24,"Cape Town, South Africa",Non-Binary,39.27,Standard,5.02,No,37
+P9722,T-shirt,Apparel,320.33,20,15,486,S479,55+,"Phoenix, USA",Male,16.32,Express,16.45,Yes,5
+P6345,Textbooks,Books,1310.92,5,15,430,S880,25-34,Singapore,Male,4.4,Express,16.94,No,18
+P8996,Formal Shoes,Footwear,1808.64,0,12,20,S835,35-44,"Toronto, Canada",Male,4.57,Overnight,16.8,No,53
+P7881,Microwave,Home Appliances,1290.52,15,10,229,S772,45-54,"Houston, USA",Non-Binary,20.68,Express,19.53,Yes,2
+P3529,Socks,Apparel,569.78,10,8,160,S482,45-54,"New York, USA",Female,31.51,Standard,13.58,Yes,59
+P5261,Boots,Footwear,1041.79,20,15,162,S397,45-54,"Toronto, Canada",Female,31.64,Standard,8.25,Yes,69
+P1896,Laptop,Electronics,451.43,20,10,393,S583,35-44,"Los Angeles, USA",Non-Binary,34.65,Standard,17.52,Yes,51
+P3709,Smartwatch,Electronics,514.69,5,8,418,S251,18-24,"Houston, USA",Male,46.71,Standard,10.66,Yes,1
+P9260,Heels,Footwear,643.07,0,15,63,S869,45-54,"Cape Town, South Africa",Female,35.49,Express,14.04,No,9
+P6249,Tablet,Electronics,513.25,5,5,238,S576,18-24,Singapore,Female,47.24,Standard,2.84,No,87
+P6375,Biographies,Books,1329.69,10,8,276,S636,25-34,"Toronto, Canada",Non-Binary,3.35,Overnight,4.46,No,56
+P7633,T-shirt,Apparel,134.91,15,10,165,S772,25-34,"Paris, France",Non-Binary,31.26,Standard,14.99,Yes,67
+P7720,Sandals,Footwear,1794.72,5,8,299,S713,18-24,"Toronto, Canada",Male,21.33,Express,17.0,No,15
+P6677,Graphic Novels,Books,376.36,15,10,214,S970,35-44,"Sydney, Australia",Female,35.12,Standard,8.28,Yes,17
+P5494,Skirt,Apparel,89.11,15,10,314,S787,35-44,Singapore,Female,37.32,Overnight,17.65,No,10
+P6930,Air Conditioner,Home Appliances,1220.81,25,15,369,S586,18-24,"Los Angeles, USA",Non-Binary,5.03,Express,18.06,Yes,3
+P5911,Slippers,Footwear,1471.47,10,12,237,S115,35-44,"Mumbai, India",Female,11.35,Standard,9.24,Yes,98
+P5378,Headphones,Electronics,306.18,15,8,379,S672,35-44,"Mumbai, India",Male,0.03,Overnight,9.74,Yes,18
+P1271,Sweater,Apparel,1619.98,5,5,174,S471,45-54,"Berlin, Germany",Female,17.62,Standard,9.08,Yes,19
+P5666,Non-Fiction,Books,1595.11,5,10,344,S791,55+,"Chicago, USA",Male,16.11,Standard,6.48,Yes,51
+P2973,Jeans,Apparel,908.92,0,5,197,S769,35-44,"London, UK",Non-Binary,14.01,Standard,13.19,No,83
+P1560,Blender,Home Appliances,1296.02,25,8,378,S139,55+,"Cape Town, South Africa",Male,41.92,Express,11.24,No,75
+P2140,Graphic Novels,Books,1483.1,0,15,360,S578,18-24,"Mumbai, India",Non-Binary,14.94,Overnight,3.03,Yes,42
+P2544,Speaker,Electronics,721.9,15,15,84,S130,55+,"Houston, USA",Female,36.88,Overnight,7.77,Yes,19
+P1539,Tablet,Electronics,846.42,10,8,500,S348,35-44,"Cape Town, South Africa",Female,26.93,Overnight,13.2,No,13
+P4172,Flats,Footwear,335.63,5,5,57,S716,35-44,Singapore,Female,32.11,Express,15.23,No,22
+P3735,Biographies,Books,806.81,20,15,428,S512,45-54,"Phoenix, USA",Female,49.99,Standard,9.92,No,38
+P3959,Non-Fiction,Books,1410.18,0,12,376,S775,35-44,"Toronto, Canada",Female,11.3,Standard,17.85,Yes,32
+P4714,Graphic Novels,Books,1209.6,25,12,224,S699,18-24,"London, UK",Non-Binary,8.62,Standard,1.31,Yes,6
+P4436,Refrigerator,Home Appliances,1287.36,20,8,154,S870,55+,"Los Angeles, USA",Male,43.42,Express,13.5,No,62
+P3886,Blender,Home Appliances,1707.64,0,8,181,S481,45-54,"Houston, USA",Female,12.69,Express,6.68,No,45
+P8946,Flats,Footwear,690.04,20,8,146,S348,35-44,"Chicago, USA",Male,37.37,Standard,1.54,No,62
+P9123,Cookbooks,Books,261.6,25,5,288,S174,55+,"Houston, USA",Male,3.89,Standard,14.35,No,60
+P2269,T-shirt,Apparel,1307.7,5,8,171,S748,25-34,"Tokyo, Japan",Male,37.73,Overnight,15.43,Yes,4
+P9871,Shorts,Apparel,1079.37,5,8,476,S512,45-54,"Cape Town, South Africa",Male,15.18,Standard,18.77,No,42
+P6102,Skirt,Apparel,1266.8,10,15,127,S417,35-44,Singapore,Female,37.45,Express,18.3,No,69
+P1133,Dress,Apparel,1959.39,15,8,362,S687,55+,"Phoenix, USA",Male,37.89,Overnight,1.29,Yes,98
+P2319,Socks,Apparel,1963.68,10,12,295,S739,45-54,"New York, USA",Non-Binary,16.75,Standard,14.64,No,62
+P5653,Shirt,Apparel,946.48,20,5,252,S466,55+,"Paris, France",Male,8.3,Overnight,15.33,Yes,71
+P2760,Toaster,Home Appliances,1927.07,10,10,379,S316,25-34,"Houston, USA",Female,27.34,Overnight,7.27,No,51
+P5923,Jacket,Apparel,926.33,5,8,32,S684,18-24,"Mumbai, India",Non-Binary,24.65,Express,6.83,Yes,34
+P4890,Skirt,Apparel,60.9,5,15,53,S910,25-34,"Tokyo, Japan",Non-Binary,11.47,Standard,14.28,No,40
+P7967,Formal Shoes,Footwear,830.29,10,12,429,S886,55+,"Sydney, Australia",Female,2.24,Overnight,8.22,Yes,8
+P9776,Dress,Apparel,1183.36,10,12,497,S925,45-54,"Houston, USA",Non-Binary,13.93,Express,14.72,Yes,30
+P5462,Jacket,Apparel,849.03,15,8,112,S133,25-34,"London, UK",Male,20.63,Standard,11.62,No,27
+P8344,Heels,Footwear,1240.35,15,8,318,S932,45-54,"Dubai, UAE",Female,23.55,Standard,4.24,No,70
+P4311,Refrigerator,Home Appliances,1022.18,5,12,329,S329,35-44,"Tokyo, Japan",Female,10.93,Standard,4.64,No,53
+P8743,Toaster,Home Appliances,309.28,20,15,328,S515,45-54,"Houston, USA",Non-Binary,0.61,Standard,12.72,Yes,43
+P7452,Microwave,Home Appliances,1512.17,5,12,318,S697,25-34,"Mumbai, India",Male,13.01,Overnight,18.74,No,96
+P9835,Headphones,Electronics,49.54,10,15,349,S369,45-54,"Los Angeles, USA",Female,5.57,Express,1.61,Yes,83
+P4053,Skirt,Apparel,1312.31,5,10,108,S135,25-34,"London, UK",Non-Binary,47.87,Standard,9.55,Yes,43
+P7588,Textbooks,Books,1666.68,15,5,91,S248,55+,"Mumbai, India",Male,29.62,Overnight,3.4,Yes,86
+P2252,Flats,Footwear,1220.91,5,5,57,S379,55+,"London, UK",Non-Binary,3.51,Express,1.61,No,48
+P2527,Smartphone,Electronics,665.5,20,15,93,S396,25-34,"Cape Town, South Africa",Female,24.26,Express,3.05,No,97
+P6052,Blender,Home Appliances,1950.16,20,12,363,S188,55+,Singapore,Non-Binary,39.12,Overnight,5.29,No,34
+P4349,Washing Machine,Home Appliances,1934.34,20,5,40,S637,35-44,"Phoenix, USA",Female,19.65,Express,12.03,Yes,45
+P1551,Comics,Books,1491.6,5,5,69,S591,45-54,Singapore,Male,0.34,Express,17.98,Yes,68
+P7747,Slippers,Footwear,1934.37,20,15,178,S388,35-44,"Chicago, USA",Female,30.18,Express,8.8,Yes,36
+P4882,Flats,Footwear,1068.23,20,5,170,S547,25-34,"Berlin, Germany",Male,5.23,Express,18.34,Yes,38
+P9543,Skirt,Apparel,1312.58,0,15,46,S131,35-44,"Los Angeles, USA",Non-Binary,26.25,Overnight,4.54,No,61
+P8266,Smartwatch,Electronics,783.18,25,15,277,S887,18-24,"London, UK",Male,40.03,Express,12.16,No,37
+P7474,Formal Shoes,Footwear,1985.24,15,10,328,S238,55+,"Toronto, Canada",Non-Binary,32.7,Overnight,7.91,Yes,23
+P3116,Blender,Home Appliances,146.99,10,8,323,S658,35-44,"Berlin, Germany",Female,21.92,Express,13.33,Yes,85
+P3351,Speaker,Electronics,178.11,5,12,499,S735,55+,"Sydney, Australia",Female,15.43,Overnight,5.1,Yes,74
+P9701,Headphones,Electronics,1134.31,25,15,309,S211,45-54,"Tokyo, Japan",Female,40.87,Express,12.3,Yes,72
+P3544,Microwave,Home Appliances,1142.76,5,10,341,S594,18-24,"Paris, France",Non-Binary,36.88,Standard,5.36,No,90
+P3916,Jeans,Apparel,1065.84,25,15,197,S161,25-34,"Berlin, Germany",Non-Binary,37.24,Overnight,2.23,Yes,20
+P2564,Jacket,Apparel,1841.33,20,8,336,S876,45-54,"Toronto, Canada",Male,36.28,Standard,12.29,No,91
+P6427,Hiking Shoes,Footwear,1293.12,15,15,120,S920,18-24,"Tokyo, Japan",Female,27.79,Express,18.19,No,15
+P6028,Microwave,Home Appliances,1649.02,0,8,142,S840,25-34,"Sydney, Australia",Female,38.76,Overnight,6.4,No,43
+P4962,Dress,Apparel,219.21,5,15,358,S523,55+,"Dubai, UAE",Female,15.44,Standard,6.09,Yes,57
+P6482,Hiking Shoes,Footwear,1749.66,0,15,292,S805,45-54,"Cape Town, South Africa",Female,17.25,Standard,8.01,No,70
+P2506,Magazines,Books,640.1,25,5,457,S739,55+,"Berlin, Germany",Male,3.05,Overnight,18.64,No,87
+P9853,Comics,Books,1751.82,15,8,261,S219,35-44,"Toronto, Canada",Male,26.38,Overnight,10.73,Yes,100
+P5265,Graphic Novels,Books,1523.17,25,5,3,S430,25-34,"Berlin, Germany",Non-Binary,21.24,Overnight,8.41,No,54
+P9550,Toaster,Home Appliances,1367.9,25,12,196,S992,55+,"Chicago, USA",Male,28.66,Express,10.53,No,23
+P2776,Smartphone,Electronics,1369.36,0,5,370,S703,35-44,"Chicago, USA",Female,4.63,Overnight,13.69,No,78
+P7358,Dishwasher,Home Appliances,1101.75,10,10,69,S943,25-34,"London, UK",Male,40.77,Overnight,15.84,No,46
+P9601,Smartwatch,Electronics,1893.73,20,15,219,S472,25-34,"Cape Town, South Africa",Male,9.43,Overnight,16.25,Yes,16
+P6628,Formal Shoes,Footwear,1896.31,10,5,359,S198,18-24,"Cape Town, South Africa",Male,15.9,Standard,6.57,No,35
+P6929,Microwave,Home Appliances,1501.55,15,8,418,S261,55+,"Mumbai, India",Female,8.48,Standard,3.11,No,53
+P7359,Slippers,Footwear,246.05,0,5,327,S669,55+,"Chicago, USA",Male,20.43,Express,16.75,Yes,8
+P7486,Blender,Home Appliances,836.16,15,10,79,S358,55+,"Phoenix, USA",Female,21.42,Overnight,14.49,Yes,92
+P9014,Boots,Footwear,1808.52,10,8,29,S608,45-54,Singapore,Non-Binary,15.83,Express,5.03,Yes,11
+P6325,Monitor,Electronics,1000.04,0,5,174,S583,45-54,Singapore,Male,21.7,Express,17.45,No,64
+P6148,Sandals,Footwear,821.96,0,15,155,S713,25-34,"Paris, France",Male,40.31,Standard,14.4,No,54
+P9206,Flats,Footwear,1840.04,15,8,409,S423,25-34,"London, UK",Non-Binary,25.37,Standard,17.48,Yes,32
+P6663,Flats,Footwear,379.9,25,12,50,S709,35-44,"Sydney, Australia",Non-Binary,20.76,Standard,7.33,Yes,5
+P6991,Graphic Novels,Books,1471.12,0,5,221,S102,35-44,"Sydney, Australia",Male,9.89,Express,6.48,No,43
+P9022,Magazines,Books,872.16,10,15,102,S352,25-34,"Houston, USA",Female,49.09,Express,9.16,No,75
+P2612,Shirt,Apparel,1965.86,10,12,339,S134,35-44,"Toronto, Canada",Non-Binary,21.88,Express,19.09,No,76
+P6369,Camera,Electronics,296.66,15,5,349,S445,35-44,"Berlin, Germany",Female,19.35,Overnight,6.75,No,78
+P3029,Running Shoes,Footwear,114.95,10,5,58,S454,25-34,"Los Angeles, USA",Male,11.24,Standard,4.31,Yes,64
+P3831,Headphones,Electronics,1803.31,5,8,438,S818,55+,"Chicago, USA",Non-Binary,25.09,Standard,11.42,Yes,57
+P8173,Flats,Footwear,1864.55,0,10,354,S853,45-54,Singapore,Male,2.08,Express,10.88,Yes,78
+P3185,Air Conditioner,Home Appliances,1007.56,0,8,224,S179,18-24,"Berlin, Germany",Non-Binary,6.95,Standard,19.0,No,55
+P5913,Vacuum Cleaner,Home Appliances,471.07,10,10,168,S675,25-34,"Houston, USA",Non-Binary,9.42,Standard,6.94,No,88
+P3765,Washing Machine,Home Appliances,1748.21,20,10,185,S996,18-24,"Los Angeles, USA",Male,32.76,Overnight,5.03,Yes,35
+P2689,Refrigerator,Home Appliances,830.7,15,15,471,S558,18-24,Singapore,Male,18.51,Standard,19.33,No,37
+P6156,Magazines,Books,458.51,20,8,442,S442,25-34,"Houston, USA",Female,6.0,Overnight,12.14,No,3
+P9730,Vacuum Cleaner,Home Appliances,810.07,5,10,135,S352,35-44,"Tokyo, Japan",Female,25.92,Express,7.73,Yes,24
+P5632,Shorts,Apparel,1321.81,10,12,297,S267,45-54,"Toronto, Canada",Female,45.31,Express,16.84,No,99
+P1263,Vacuum Cleaner,Home Appliances,1602.65,15,5,183,S136,55+,Singapore,Male,23.65,Overnight,18.99,Yes,100
+P3507,Speaker,Electronics,1014.87,25,10,128,S847,25-34,"Sydney, Australia",Male,19.2,Standard,14.97,No,50
+P7602,Sandals,Footwear,382.13,25,8,111,S168,35-44,"Paris, France",Male,46.75,Overnight,4.19,No,15
+P9202,Toaster,Home Appliances,707.13,20,5,163,S694,55+,"Cape Town, South Africa",Male,6.25,Standard,5.0,Yes,51
+P2638,Blender,Home Appliances,1055.72,15,12,95,S560,55+,"Chicago, USA",Non-Binary,40.04,Express,5.63,No,25
+P9834,Dishwasher,Home Appliances,1874.58,0,10,386,S198,35-44,"Houston, USA",Non-Binary,32.51,Overnight,3.76,Yes,53
+P3781,Laptop,Electronics,1781.89,5,15,321,S107,35-44,"Cape Town, South Africa",Female,14.49,Overnight,9.4,Yes,16
+P2381,Fiction,Books,1232.28,0,5,47,S200,25-34,"Chicago, USA",Non-Binary,47.37,Overnight,5.78,No,61
+P6108,Heels,Footwear,925.55,15,12,213,S948,55+,"Chicago, USA",Male,37.53,Standard,16.86,Yes,0
+P6419,Vacuum Cleaner,Home Appliances,1470.41,25,12,420,S814,25-34,"Dubai, UAE",Non-Binary,15.73,Express,8.61,Yes,24
+P9379,Hiking Shoes,Footwear,1369.74,20,10,334,S158,45-54,"Paris, France",Female,40.97,Standard,11.54,Yes,75
+P9665,Heels,Footwear,229.87,0,12,93,S712,18-24,"Paris, France",Non-Binary,8.07,Standard,17.45,Yes,95
+P7082,Magazines,Books,467.54,15,15,244,S920,25-34,"Dubai, UAE",Male,28.19,Overnight,11.56,Yes,100
+P4634,Magazines,Books,231.22,15,8,481,S582,45-54,"Chicago, USA",Male,12.82,Express,12.71,No,43
+P3739,Sandals,Footwear,315.34,20,5,192,S398,45-54,"New York, USA",Male,36.53,Express,19.88,Yes,4
+P3594,Gaming Console,Electronics,858.52,0,8,203,S128,18-24,"Los Angeles, USA",Female,12.91,Standard,7.61,Yes,27
+P1320,Flats,Footwear,88.88,10,8,38,S962,45-54,"Sydney, Australia",Non-Binary,17.31,Standard,11.05,Yes,86
+P3704,Slippers,Footwear,565.22,0,10,60,S884,45-54,"Dubai, UAE",Female,49.98,Overnight,2.13,Yes,21
+P9749,Cookbooks,Books,724.86,10,12,46,S424,45-54,"Toronto, Canada",Male,47.7,Standard,13.59,No,17
+P1742,Textbooks,Books,1571.59,15,10,21,S655,35-44,"Paris, France",Female,45.65,Overnight,9.78,Yes,28
+P1902,Camera,Electronics,1106.67,5,15,438,S976,45-54,"Sydney, Australia",Male,39.64,Standard,9.32,No,67
+P2264,Tablet,Electronics,733.38,25,8,481,S386,18-24,"Berlin, Germany",Male,8.48,Overnight,4.92,No,57
+P7168,Tablet,Electronics,650.61,15,5,390,S531,45-54,"Cape Town, South Africa",Female,20.13,Overnight,13.94,Yes,25
+P5974,Washing Machine,Home Appliances,1277.2,0,8,484,S287,55+,"Los Angeles, USA",Male,44.18,Overnight,6.67,Yes,58
+P8540,Socks,Apparel,1679.01,15,10,38,S455,25-34,Singapore,Female,10.39,Standard,14.16,Yes,20
+P4443,Sweater,Apparel,1511.22,25,8,186,S609,55+,"London, UK",Female,12.14,Express,10.28,No,100
+P1831,Slippers,Footwear,1912.77,5,12,414,S398,55+,"Dubai, UAE",Female,21.65,Standard,18.58,No,40
+P2220,Monitor,Electronics,1984.65,25,10,443,S329,55+,"New York, USA",Non-Binary,16.6,Overnight,13.25,No,97
+P3573,Comics,Books,128.51,25,15,130,S277,55+,"Dubai, UAE",Non-Binary,30.55,Overnight,6.14,Yes,83
+P6419,Air Conditioner,Home Appliances,1828.05,5,8,9,S922,55+,"Berlin, Germany",Non-Binary,15.0,Overnight,2.2,Yes,5
+P1720,Shorts,Apparel,873.37,20,12,104,S342,45-54,"Tokyo, Japan",Non-Binary,2.14,Overnight,17.58,No,16
+P1507,Shorts,Apparel,1314.2,25,12,270,S140,55+,"Los Angeles, USA",Non-Binary,29.02,Standard,15.6,No,48
+P5615,Toaster,Home Appliances,490.19,20,8,473,S622,55+,"Phoenix, USA",Female,31.13,Overnight,16.42,No,23
+P6333,Toaster,Home Appliances,1019.44,5,5,71,S410,35-44,"Houston, USA",Non-Binary,1.47,Overnight,17.47,Yes,3
+P2823,Formal Shoes,Footwear,681.74,20,10,414,S873,35-44,Singapore,Female,26.38,Overnight,8.81,No,42
+P7233,Camera,Electronics,1011.4,20,8,494,S945,55+,"Mumbai, India",Non-Binary,41.28,Standard,9.36,No,2
+P9271,Biographies,Books,905.06,0,10,344,S336,45-54,"London, UK",Male,2.46,Overnight,9.16,No,4
+P1752,Textbooks,Books,1573.6,10,12,186,S579,25-34,"Berlin, Germany",Non-Binary,39.53,Express,1.45,Yes,7
+P3307,Air Conditioner,Home Appliances,126.36,5,5,365,S861,25-34,"Cape Town, South Africa",Male,18.3,Express,12.95,No,32
+P9132,Microwave,Home Appliances,51.69,15,15,182,S398,25-34,"Mumbai, India",Non-Binary,48.16,Standard,5.17,No,83
+P4237,Slippers,Footwear,1316.36,25,5,455,S135,55+,"Cape Town, South Africa",Non-Binary,27.97,Overnight,2.18,Yes,17
+P8330,Graphic Novels,Books,1477.11,15,8,182,S339,35-44,"Tokyo, Japan",Female,47.54,Standard,18.27,Yes,70
+P2344,Cookbooks,Books,454.91,20,12,288,S898,35-44,"Toronto, Canada",Male,8.4,Overnight,18.56,No,68
+P3905,Dishwasher,Home Appliances,622.45,10,5,29,S615,45-54,"Cape Town, South Africa",Female,11.85,Express,15.31,Yes,36
+P1644,Speaker,Electronics,1707.01,5,10,135,S885,45-54,"Dubai, UAE",Male,7.8,Overnight,14.12,No,70
+P5687,Flats,Footwear,739.49,10,5,180,S615,45-54,"Sydney, Australia",Non-Binary,3.2,Overnight,18.52,Yes,86
+P7689,Smartwatch,Electronics,31.5,0,15,244,S805,35-44,"Houston, USA",Female,11.19,Standard,7.93,No,22
+P9740,Microwave,Home Appliances,1720.89,20,8,181,S246,25-34,"Houston, USA",Non-Binary,18.63,Overnight,2.56,No,72
+P6948,Hiking Shoes,Footwear,1963.11,10,15,441,S317,35-44,"Cape Town, South Africa",Female,0.14,Express,19.41,No,67
+P9481,Biographies,Books,1701.27,20,15,196,S235,18-24,"Sydney, Australia",Non-Binary,6.58,Express,3.92,Yes,47
+P6336,Vacuum Cleaner,Home Appliances,433.39,15,5,287,S733,25-34,"Phoenix, USA",Male,15.98,Overnight,8.87,Yes,41
+P9895,Textbooks,Books,47.25,20,10,42,S210,35-44,"London, UK",Non-Binary,14.18,Standard,16.35,Yes,63
+P9467,Headphones,Electronics,1439.44,5,8,299,S803,18-24,"Dubai, UAE",Male,31.95,Standard,18.35,Yes,19
+P9197,Textbooks,Books,1562.86,5,8,453,S940,45-54,"Los Angeles, USA",Female,42.89,Standard,5.73,Yes,75
+P6567,Refrigerator,Home Appliances,1417.17,5,15,84,S843,55+,"Paris, France",Non-Binary,17.68,Express,14.71,Yes,100
+P3518,Dishwasher,Home Appliances,404.66,15,10,64,S360,55+,"Toronto, Canada",Male,0.29,Overnight,3.48,No,48
+P6210,Magazines,Books,938.72,15,5,361,S931,35-44,"New York, USA",Female,11.0,Overnight,17.63,Yes,78
+P8303,Laptop,Electronics,562.84,5,10,377,S584,55+,"Paris, France",Male,28.53,Express,4.81,Yes,42
+P5465,Non-Fiction,Books,1392.99,25,5,104,S573,25-34,"Mumbai, India",Non-Binary,12.99,Express,14.12,Yes,48
+P6621,Graphic Novels,Books,494.82,0,5,253,S431,55+,"Phoenix, USA",Non-Binary,13.8,Express,6.15,No,73
+P5678,Flats,Footwear,1660.9,25,8,10,S695,18-24,"Chicago, USA",Male,4.39,Standard,5.5,No,50
+P7001,Sweater,Apparel,581.79,15,15,382,S464,25-34,"London, UK",Female,2.38,Standard,4.41,No,65
+P1841,Tablet,Electronics,707.67,25,10,461,S180,45-54,"Berlin, Germany",Non-Binary,31.3,Express,6.64,No,67
+P3148,Jeans,Apparel,1941.8,5,8,468,S442,55+,"Toronto, Canada",Non-Binary,29.75,Overnight,9.9,No,65
+P3689,Headphones,Electronics,1847.16,10,12,102,S856,25-34,"Los Angeles, USA",Non-Binary,26.5,Overnight,18.26,No,80
+P1726,Refrigerator,Home Appliances,631.61,5,10,378,S610,18-24,"Phoenix, USA",Male,11.25,Standard,5.28,No,2
+P3764,Jeans,Apparel,1138.37,15,8,200,S589,35-44,"Dubai, UAE",Non-Binary,16.42,Express,11.33,Yes,46
+P9577,Running Shoes,Footwear,1376.68,0,12,73,S973,45-54,"New York, USA",Female,10.41,Standard,19.24,No,64
+P2343,Smartphone,Electronics,367.86,20,5,387,S189,35-44,"Phoenix, USA",Female,35.65,Express,19.79,No,33
+P1707,Dishwasher,Home Appliances,1716.25,0,10,480,S562,55+,"Cape Town, South Africa",Non-Binary,18.71,Overnight,15.78,No,69
+P4739,Jacket,Apparel,153.17,10,10,3,S497,55+,"Cape Town, South Africa",Male,18.56,Standard,8.82,No,53
+P2729,Comics,Books,1469.54,10,10,257,S812,25-34,"London, UK",Female,20.08,Overnight,7.34,Yes,72
+P3819,Skirt,Apparel,1516.24,10,12,258,S622,25-34,"Berlin, Germany",Male,1.0,Overnight,12.63,Yes,11
+P5091,Sneakers,Footwear,1185.85,0,5,480,S314,35-44,"Toronto, Canada",Female,27.88,Express,6.16,Yes,58
+P8579,Headphones,Electronics,1948.46,15,10,474,S811,45-54,"Phoenix, USA",Female,27.13,Standard,19.47,No,0
+P6703,Washing Machine,Home Appliances,976.3,5,8,334,S213,25-34,"Phoenix, USA",Non-Binary,28.94,Overnight,9.13,Yes,38
+P1202,Microwave,Home Appliances,572.63,15,12,273,S186,18-24,"London, UK",Male,33.47,Standard,10.65,No,49
+P2247,Toaster,Home Appliances,148.33,5,10,34,S732,35-44,"Dubai, UAE",Non-Binary,33.87,Standard,18.71,No,29
+P2571,Socks,Apparel,1410.23,5,8,164,S800,45-54,"Berlin, Germany",Male,16.83,Standard,16.73,Yes,48
+P5405,Vacuum Cleaner,Home Appliances,1937.61,5,5,208,S735,55+,"Paris, France",Female,34.92,Standard,17.6,Yes,26
+P3499,Gaming Console,Electronics,1318.85,5,10,457,S128,55+,"Tokyo, Japan",Female,26.51,Standard,6.51,No,93
+P6919,Vacuum Cleaner,Home Appliances,1299.81,20,10,245,S556,18-24,"Paris, France",Male,1.83,Overnight,15.12,Yes,47
+P2588,Skirt,Apparel,577.48,20,10,311,S998,45-54,"Phoenix, USA",Male,48.43,Overnight,12.4,Yes,23
+P5051,Shorts,Apparel,1103.82,20,12,329,S760,45-54,"Tokyo, Japan",Male,0.57,Express,6.52,No,7
+P8975,Boots,Footwear,1113.89,20,10,9,S190,45-54,"New York, USA",Male,38.32,Overnight,19.51,Yes,31
+P3816,Smartwatch,Electronics,266.63,5,8,0,S770,35-44,Singapore,Non-Binary,15.53,Express,8.49,Yes,26
+P1072,Laptop,Electronics,1861.65,0,15,431,S140,18-24,"Dubai, UAE",Non-Binary,45.46,Standard,2.96,Yes,59
+P7100,Graphic Novels,Books,858.13,25,10,141,S344,18-24,"Toronto, Canada",Male,16.09,Overnight,16.66,No,88
+P1603,Non-Fiction,Books,1996.7,20,10,498,S279,25-34,"Dubai, UAE",Non-Binary,44.46,Standard,15.8,Yes,50
+P4006,Refrigerator,Home Appliances,83.49,25,5,13,S513,35-44,Singapore,Non-Binary,5.09,Overnight,7.37,No,2
+P3380,Refrigerator,Home Appliances,1918.09,25,10,114,S600,55+,"Cape Town, South Africa",Non-Binary,2.84,Standard,15.56,Yes,64
+P7382,Cookbooks,Books,1042.06,25,15,455,S373,55+,"London, UK",Female,25.43,Standard,2.04,Yes,75
+P7063,Laptop,Electronics,1870.89,10,15,359,S824,35-44,"London, UK",Non-Binary,31.23,Overnight,14.63,No,24
+P3264,Vacuum Cleaner,Home Appliances,562.18,10,10,269,S831,18-24,"Tokyo, Japan",Female,37.7,Overnight,12.7,No,24
+P8902,Shirt,Apparel,723.6,0,8,422,S878,55+,"Chicago, USA",Non-Binary,14.44,Overnight,9.12,Yes,85
+P4734,Smartwatch,Electronics,876.25,25,15,90,S179,45-54,"Sydney, Australia",Male,27.43,Express,18.46,Yes,37
+P3673,Laptop,Electronics,317.67,20,12,370,S452,25-34,"Dubai, UAE",Male,4.85,Express,1.4,No,30
+P5330,Flats,Footwear,840.64,15,10,8,S776,45-54,"Los Angeles, USA",Male,5.62,Express,12.72,Yes,81
+P2015,Heels,Footwear,1331.86,15,10,438,S799,25-34,"Sydney, Australia",Female,25.35,Overnight,11.25,No,9
+P7108,Jacket,Apparel,1641.91,20,12,115,S101,35-44,"Phoenix, USA",Non-Binary,35.24,Overnight,3.49,No,24
+P6278,Jeans,Apparel,448.2,20,10,242,S132,25-34,"Paris, France",Non-Binary,12.76,Overnight,11.69,No,17
+P6467,Boots,Footwear,1575.41,0,12,105,S181,25-34,"Toronto, Canada",Non-Binary,8.65,Standard,4.31,Yes,47
+P7146,Smartphone,Electronics,164.26,5,8,314,S325,18-24,"Chicago, USA",Non-Binary,22.62,Express,13.89,Yes,56
+P6342,Shirt,Apparel,1507.33,10,8,80,S975,35-44,"Los Angeles, USA",Non-Binary,8.04,Standard,7.07,No,25
+P6512,Graphic Novels,Books,1064.23,20,12,187,S672,18-24,Singapore,Female,0.37,Express,5.12,No,23
+P7224,Headphones,Electronics,1622.11,10,15,460,S424,18-24,"Phoenix, USA",Male,47.72,Express,6.86,No,92
+P7628,Hiking Shoes,Footwear,347.93,0,15,238,S504,55+,"Dubai, UAE",Male,14.29,Standard,6.33,Yes,89
+P1419,Comics,Books,885.1,10,8,273,S164,25-34,"Phoenix, USA",Non-Binary,48.21,Standard,12.78,No,49
+P4118,Hiking Shoes,Footwear,1752.81,15,15,461,S425,25-34,"Phoenix, USA",Non-Binary,11.08,Standard,11.17,Yes,17
+P8973,Cookbooks,Books,1932.86,25,12,58,S150,55+,"London, UK",Female,19.12,Standard,7.29,Yes,56
+P4025,Non-Fiction,Books,209.46,5,8,38,S906,55+,"Mumbai, India",Male,3.34,Express,4.85,No,72
+P1001,Slippers,Footwear,1221.15,15,15,40,S566,18-24,"Paris, France",Female,38.48,Overnight,11.93,No,86
+P7877,Boots,Footwear,1678.63,5,8,292,S663,45-54,"Phoenix, USA",Female,26.0,Standard,9.56,Yes,74
+P8812,Non-Fiction,Books,501.72,15,10,187,S654,45-54,"Tokyo, Japan",Non-Binary,46.7,Standard,1.37,Yes,25
+P7555,Dishwasher,Home Appliances,289.67,0,12,375,S238,25-34,"Paris, France",Male,7.05,Express,5.11,Yes,26
+P9056,Monitor,Electronics,1598.62,0,5,97,S523,55+,"Dubai, UAE",Non-Binary,30.23,Express,6.92,Yes,77
+P1904,Monitor,Electronics,1566.66,25,5,168,S822,45-54,"Berlin, Germany",Male,28.16,Overnight,3.28,No,87
+P1200,Skirt,Apparel,391.53,10,15,492,S613,45-54,"Berlin, Germany",Non-Binary,34.75,Standard,11.49,Yes,84
+P5804,Formal Shoes,Footwear,1632.58,20,15,163,S873,35-44,"Mumbai, India",Non-Binary,12.02,Express,3.94,No,8
+P3982,Hiking Shoes,Footwear,1300.94,10,12,462,S817,25-34,"Tokyo, Japan",Non-Binary,8.02,Overnight,7.71,Yes,45
+P2963,Comics,Books,1856.43,0,10,434,S819,55+,"Berlin, Germany",Female,47.48,Standard,13.76,No,59
+P5814,Formal Shoes,Footwear,1154.99,5,8,4,S744,55+,"New York, USA",Female,3.77,Standard,6.05,No,28
+P9940,Blender,Home Appliances,748.09,10,15,203,S583,18-24,"New York, USA",Non-Binary,35.7,Standard,7.76,No,11
+P6224,Dress,Apparel,1628.23,5,8,61,S167,35-44,"Berlin, Germany",Male,4.12,Overnight,16.91,Yes,40
+P7263,Comics,Books,1831.93,5,10,322,S631,18-24,"London, UK",Non-Binary,42.28,Express,18.5,Yes,73
+P9545,Formal Shoes,Footwear,1265.34,5,15,47,S984,55+,"London, UK",Non-Binary,5.68,Standard,7.77,No,12
+P5088,Gaming Console,Electronics,1098.22,25,15,277,S477,35-44,"Mumbai, India",Non-Binary,25.0,Express,15.39,Yes,93
+P3375,Biographies,Books,1306.61,5,10,433,S804,18-24,Singapore,Female,28.63,Express,2.77,Yes,56
+P9654,Fiction,Books,973.79,25,10,254,S999,45-54,"Los Angeles, USA",Non-Binary,42.08,Overnight,7.86,No,41
+P6220,Hiking Shoes,Footwear,1257.14,0,10,232,S558,35-44,"London, UK",Female,1.57,Standard,19.3,No,77
+P5616,Comics,Books,1701.14,0,5,283,S231,45-54,"Phoenix, USA",Female,30.53,Express,4.94,No,20
+P4388,Flats,Footwear,1773.16,15,12,6,S679,45-54,"Sydney, Australia",Female,39.16,Standard,9.74,Yes,90
+P6361,Headphones,Electronics,477.25,15,12,186,S465,55+,"Paris, France",Female,2.61,Express,19.75,Yes,63
+P1665,Camera,Electronics,1689.79,25,10,465,S482,55+,"Dubai, UAE",Male,12.34,Express,19.97,No,96
+P4880,Graphic Novels,Books,1050.39,5,5,466,S295,55+,"Houston, USA",Non-Binary,2.47,Standard,10.52,Yes,79
+P6175,Non-Fiction,Books,847.43,10,10,268,S467,55+,"London, UK",Non-Binary,16.94,Express,2.34,Yes,1
+P7993,Gaming Console,Electronics,1429.14,10,10,122,S231,18-24,"Chicago, USA",Male,24.74,Express,11.35,Yes,6
+P7459,T-shirt,Apparel,1529.8,15,8,318,S570,45-54,"Los Angeles, USA",Non-Binary,3.93,Express,12.44,No,55
+P8512,Microwave,Home Appliances,507.4,20,5,346,S460,35-44,"Paris, France",Male,1.73,Express,13.46,Yes,83
+P4293,Refrigerator,Home Appliances,413.41,5,8,139,S420,35-44,"Los Angeles, USA",Male,47.91,Overnight,14.73,Yes,81
+P5089,Magazines,Books,1440.78,25,10,337,S139,25-34,"Sydney, Australia",Female,5.47,Standard,12.73,No,9
+P6421,Sneakers,Footwear,389.97,15,10,210,S200,35-44,"Paris, France",Non-Binary,39.27,Express,16.02,Yes,80
+P3418,Washing Machine,Home Appliances,483.43,5,5,47,S554,18-24,"Cape Town, South Africa",Non-Binary,2.6,Overnight,14.7,No,11
+P5277,Heels,Footwear,1117.03,20,12,168,S573,35-44,"Phoenix, USA",Female,8.16,Overnight,19.92,No,56
+P5070,Monitor,Electronics,1874.4,15,12,445,S968,18-24,"Phoenix, USA",Non-Binary,22.56,Overnight,19.73,Yes,27
+P5693,Speaker,Electronics,924.9,5,10,398,S570,35-44,"Toronto, Canada",Female,45.49,Express,2.41,Yes,87
+P7472,Jacket,Apparel,1459.78,20,5,63,S411,55+,"Tokyo, Japan",Female,3.4,Standard,14.93,Yes,63
+P4656,Biographies,Books,471.06,25,8,213,S877,18-24,"Phoenix, USA",Male,16.33,Overnight,19.53,Yes,55
+P4260,Fiction,Books,659.99,5,15,346,S948,35-44,"New York, USA",Female,29.36,Overnight,4.78,Yes,88
+P9263,Biographies,Books,950.75,15,10,69,S587,55+,"Cape Town, South Africa",Female,35.53,Overnight,14.08,No,95
+P4262,Refrigerator,Home Appliances,1730.55,15,12,173,S552,35-44,"Sydney, Australia",Male,30.59,Express,19.33,No,1
+P9995,Dress,Apparel,1349.45,5,12,206,S360,45-54,"Phoenix, USA",Male,7.76,Express,6.8,No,8
+P6023,Non-Fiction,Books,1531.87,0,15,459,S548,25-34,"Tokyo, Japan",Female,28.21,Standard,3.83,No,96
+P6940,Toaster,Home Appliances,801.78,10,12,111,S646,35-44,"London, UK",Male,2.45,Overnight,17.52,Yes,17
+P1451,Running Shoes,Footwear,689.82,15,10,458,S391,18-24,"Tokyo, Japan",Male,26.01,Overnight,8.67,Yes,1
+P6187,Headphones,Electronics,254.0,10,10,184,S545,35-44,"Berlin, Germany",Non-Binary,45.25,Overnight,19.87,Yes,12
+P7787,Blender,Home Appliances,1660.99,5,10,164,S668,25-34,"Chicago, USA",Non-Binary,15.98,Express,10.59,Yes,47
+P8144,Toaster,Home Appliances,530.34,25,5,39,S764,25-34,"New York, USA",Male,24.21,Express,14.31,No,92
+P2677,Jeans,Apparel,1947.18,25,10,306,S662,55+,"Phoenix, USA",Male,36.33,Standard,13.95,Yes,52
+P3214,Graphic Novels,Books,1116.9,25,8,336,S331,45-54,"Dubai, UAE",Female,8.88,Standard,5.95,No,21
+P8255,Shorts,Apparel,312.0,5,5,232,S174,18-24,"New York, USA",Male,40.67,Overnight,17.22,Yes,84
+P9905,Jacket,Apparel,1398.52,25,8,99,S662,35-44,"Los Angeles, USA",Male,18.61,Overnight,17.29,No,69
+P2576,Sandals,Footwear,1037.42,20,10,290,S561,25-34,"Toronto, Canada",Female,2.71,Express,13.83,No,22
+P2730,Gaming Console,Electronics,1855.62,0,8,212,S979,35-44,"Tokyo, Japan",Non-Binary,45.84,Express,8.79,Yes,61
+P8791,Speaker,Electronics,244.26,25,8,78,S306,35-44,"Berlin, Germany",Non-Binary,40.48,Express,9.3,No,73
+P9853,Biographies,Books,805.1,20,15,87,S119,35-44,"Mumbai, India",Male,39.57,Overnight,11.24,Yes,65
+P9573,Jeans,Apparel,1465.28,0,12,307,S672,55+,"London, UK",Non-Binary,6.95,Overnight,16.0,Yes,65
+P2384,Speaker,Electronics,1279.18,5,8,50,S776,55+,Singapore,Female,29.27,Standard,5.76,No,75
+P3686,Monitor,Electronics,188.89,5,5,144,S504,55+,"Houston, USA",Non-Binary,43.75,Overnight,5.46,Yes,29
+P8596,Smartwatch,Electronics,163.05,0,10,456,S106,18-24,"Cape Town, South Africa",Non-Binary,2.49,Overnight,9.85,Yes,70
+P2768,Textbooks,Books,1038.74,15,8,282,S421,25-34,"New York, USA",Female,34.32,Express,17.03,Yes,58
+P7846,Sneakers,Footwear,1760.69,20,12,37,S245,25-34,"London, UK",Female,32.05,Overnight,16.82,No,1
+P7648,Non-Fiction,Books,1306.02,25,12,81,S729,55+,"Sydney, Australia",Non-Binary,40.54,Standard,7.2,Yes,9
+P1554,Dishwasher,Home Appliances,1736.82,0,15,216,S897,18-24,"Cape Town, South Africa",Non-Binary,8.1,Overnight,5.31,No,73
+P3185,Cookbooks,Books,914.28,0,12,236,S248,35-44,"New York, USA",Male,41.97,Standard,10.55,No,72
+P8500,Shirt,Apparel,117.22,25,12,183,S384,55+,"Toronto, Canada",Male,27.6,Standard,5.36,No,12
+P4533,Jacket,Apparel,716.82,15,5,71,S548,18-24,Singapore,Non-Binary,25.8,Standard,1.65,Yes,47
+P2937,Refrigerator,Home Appliances,865.97,15,12,253,S373,45-54,"London, UK",Female,0.79,Express,18.99,No,34
+P3929,Magazines,Books,1990.49,5,5,240,S539,45-54,"New York, USA",Male,41.0,Express,11.42,Yes,86
+P9063,Washing Machine,Home Appliances,995.2,10,8,210,S271,25-34,"Berlin, Germany",Male,5.46,Standard,7.81,No,9
+P2307,Refrigerator,Home Appliances,1134.16,25,8,159,S965,18-24,Singapore,Male,18.24,Overnight,6.72,No,47
+P5962,Toaster,Home Appliances,1522.37,10,10,201,S477,35-44,"Chicago, USA",Non-Binary,9.18,Standard,8.36,No,10
+P3449,Textbooks,Books,56.33,10,8,392,S731,55+,"Chicago, USA",Female,40.23,Overnight,18.71,Yes,19
+P1373,Dishwasher,Home Appliances,1892.82,0,8,464,S558,45-54,"Dubai, UAE",Female,34.48,Express,17.88,Yes,80
+P7730,Jacket,Apparel,1971.52,10,10,131,S769,55+,"Houston, USA",Male,7.22,Overnight,10.98,Yes,17
+P8325,Slippers,Footwear,713.0,15,10,323,S769,55+,"Los Angeles, USA",Male,28.8,Standard,14.77,No,58
+P3631,Sandals,Footwear,813.91,15,5,59,S676,35-44,"Sydney, Australia",Female,27.75,Express,4.97,Yes,5
+P8495,Monitor,Electronics,229.36,10,10,412,S731,18-24,"New York, USA",Male,11.23,Overnight,19.86,Yes,50
+P7185,Speaker,Electronics,446.82,25,15,16,S918,45-54,"Phoenix, USA",Female,24.21,Overnight,10.37,No,61
+P9184,Non-Fiction,Books,635.99,15,5,468,S640,55+,"Berlin, Germany",Male,15.25,Standard,1.49,Yes,52
+P2021,Headphones,Electronics,1318.38,20,10,417,S501,55+,"Toronto, Canada",Male,40.41,Overnight,10.22,Yes,40
+P7373,Hiking Shoes,Footwear,402.82,15,5,158,S527,55+,"Toronto, Canada",Male,10.58,Express,3.76,No,93
+P5971,Boots,Footwear,1453.85,5,10,367,S545,55+,"Paris, France",Non-Binary,47.1,Overnight,15.57,No,76
+P5091,Sweater,Apparel,906.61,25,8,350,S219,35-44,"Los Angeles, USA",Male,2.86,Standard,13.89,No,29
+P8437,Cookbooks,Books,121.49,5,12,87,S938,45-54,"Tokyo, Japan",Male,33.53,Express,7.44,No,87
+P3932,Boots,Footwear,395.46,25,5,48,S333,25-34,"Dubai, UAE",Non-Binary,48.61,Standard,16.76,No,51
+P9982,T-shirt,Apparel,987.71,20,12,297,S494,45-54,"Tokyo, Japan",Non-Binary,21.15,Express,17.73,Yes,40
+P6694,Washing Machine,Home Appliances,389.46,0,10,338,S125,18-24,"Houston, USA",Male,35.02,Overnight,18.83,Yes,43
+P4770,Comics,Books,1001.74,10,8,406,S999,55+,"Dubai, UAE",Male,6.21,Express,8.85,Yes,10
+P1396,Cookbooks,Books,1741.58,15,15,117,S236,18-24,"Mumbai, India",Non-Binary,24.44,Overnight,16.59,No,86
+P4017,Gaming Console,Electronics,467.29,25,8,144,S689,45-54,"Los Angeles, USA",Male,23.26,Overnight,17.48,No,61
+P2387,Washing Machine,Home Appliances,799.07,15,8,48,S407,35-44,"Chicago, USA",Female,41.95,Overnight,8.32,No,94
+P8690,Magazines,Books,541.53,5,5,34,S200,35-44,"Los Angeles, USA",Non-Binary,7.28,Standard,5.89,No,83
+P9068,Gaming Console,Electronics,1567.92,20,15,159,S566,55+,"Tokyo, Japan",Female,47.57,Express,7.46,No,70
+P8276,Shorts,Apparel,729.46,15,8,228,S589,55+,"Sydney, Australia",Male,45.33,Standard,14.02,No,3
+P6988,Slippers,Footwear,1176.47,25,5,226,S999,35-44,"Mumbai, India",Male,5.39,Express,6.59,No,69
+P9415,Skirt,Apparel,169.7,20,10,404,S587,55+,"New York, USA",Non-Binary,24.99,Standard,14.57,Yes,54
+P5130,Vacuum Cleaner,Home Appliances,726.56,10,8,470,S951,35-44,"Mumbai, India",Non-Binary,0.64,Express,11.12,Yes,98
+P9964,Smartphone,Electronics,1200.92,20,10,231,S535,18-24,"Chicago, USA",Non-Binary,34.09,Standard,5.53,Yes,21
+P3409,Monitor,Electronics,784.88,15,5,413,S140,35-44,"New York, USA",Non-Binary,37.11,Overnight,13.81,No,67
+P6469,Comics,Books,474.97,0,15,374,S852,45-54,"London, UK",Non-Binary,22.77,Standard,15.16,Yes,61
+P9781,Fiction,Books,869.39,20,5,418,S375,55+,"Phoenix, USA",Female,42.4,Standard,17.92,Yes,45
+P2405,Gaming Console,Electronics,901.63,15,15,242,S272,35-44,"Tokyo, Japan",Non-Binary,38.06,Express,18.82,No,9
+P5580,Shirt,Apparel,934.13,25,12,32,S146,18-24,Singapore,Female,13.03,Express,5.83,Yes,73
+P5565,Magazines,Books,1288.33,15,12,443,S177,45-54,"Toronto, Canada",Female,15.58,Standard,6.63,Yes,20
+P3564,Laptop,Electronics,1414.1,10,15,86,S964,45-54,Singapore,Male,2.37,Standard,3.09,Yes,85
+P5857,Fiction,Books,190.82,20,5,217,S426,35-44,"Phoenix, USA",Non-Binary,48.09,Standard,4.73,No,68
+P3691,Cookbooks,Books,89.51,0,8,227,S736,25-34,"Paris, France",Male,18.38,Express,9.17,No,42
+P1734,Magazines,Books,1578.55,15,5,377,S672,45-54,Singapore,Male,42.4,Overnight,1.05,Yes,55
+P3829,Toaster,Home Appliances,21.72,5,12,379,S175,35-44,"Berlin, Germany",Male,31.08,Overnight,3.28,No,33
+P5096,Comics,Books,1908.97,25,8,90,S473,55+,"Mumbai, India",Non-Binary,33.8,Overnight,2.92,Yes,89
+P5150,Headphones,Electronics,920.22,20,12,156,S896,25-34,"Mumbai, India",Non-Binary,23.86,Express,7.19,No,82
+P6702,Sandals,Footwear,112.2,20,10,197,S169,55+,"Cape Town, South Africa",Non-Binary,24.81,Express,15.25,Yes,59
+P3522,Headphones,Electronics,588.17,10,10,315,S658,18-24,Singapore,Non-Binary,10.42,Standard,8.6,Yes,68
+P7805,Smartwatch,Electronics,728.42,10,10,88,S475,25-34,"Cape Town, South Africa",Female,29.66,Overnight,16.07,No,51
+P5466,Microwave,Home Appliances,715.27,5,10,217,S906,45-54,"Paris, France",Non-Binary,1.97,Standard,7.98,No,92
+P6582,Jeans,Apparel,1546.65,20,12,281,S892,55+,"Houston, USA",Male,49.06,Express,19.57,No,37
+P4990,Flats,Footwear,1279.64,20,5,195,S721,18-24,"Tokyo, Japan",Male,40.9,Express,7.95,Yes,4
+P7903,Flats,Footwear,1589.28,15,15,161,S711,55+,"London, UK",Female,34.41,Standard,10.39,No,46
+P3431,Non-Fiction,Books,1788.92,10,15,438,S146,25-34,"London, UK",Male,43.58,Overnight,3.35,Yes,96
+P6028,Microwave,Home Appliances,1504.96,5,15,467,S195,45-54,"Berlin, Germany",Male,49.71,Express,12.92,No,76
+P3803,Washing Machine,Home Appliances,1904.51,10,15,443,S184,35-44,Singapore,Male,47.72,Standard,17.81,No,32
+P1768,Monitor,Electronics,1541.26,5,8,180,S159,55+,Singapore,Male,0.28,Express,4.96,No,27
+P7708,Washing Machine,Home Appliances,894.12,25,5,298,S606,35-44,Singapore,Female,12.64,Standard,13.92,No,51
+P6663,Comics,Books,911.53,0,8,173,S811,25-34,"Houston, USA",Non-Binary,19.5,Overnight,3.76,Yes,66
+P9125,Cookbooks,Books,1248.83,20,8,24,S772,45-54,"Houston, USA",Male,0.71,Standard,1.83,No,45
+P1719,Laptop,Electronics,1976.43,0,10,70,S849,55+,"Berlin, Germany",Female,47.18,Overnight,7.28,No,0
+P8639,Cookbooks,Books,1912.59,20,12,320,S999,35-44,Singapore,Female,24.82,Standard,19.51,Yes,61
+P2637,Comics,Books,225.37,25,15,429,S520,35-44,"Houston, USA",Male,36.07,Standard,17.45,Yes,85
+P1331,Jacket,Apparel,588.34,0,10,218,S432,18-24,"Berlin, Germany",Male,32.32,Standard,12.26,Yes,72
+P8976,Non-Fiction,Books,1357.35,0,15,16,S710,45-54,"Sydney, Australia",Non-Binary,18.2,Overnight,6.58,No,50
+P2217,Toaster,Home Appliances,1227.44,15,12,221,S903,18-24,"Toronto, Canada",Non-Binary,29.71,Express,17.27,Yes,28
+P6280,Formal Shoes,Footwear,785.79,15,10,271,S656,35-44,"Chicago, USA",Non-Binary,21.96,Standard,17.97,No,34
+P2076,Textbooks,Books,1614.5,10,12,457,S866,18-24,"Mumbai, India",Male,19.85,Standard,1.49,Yes,53
+P5898,Sneakers,Footwear,1174.95,10,10,257,S753,45-54,"Phoenix, USA",Non-Binary,27.55,Express,12.05,Yes,20
+P3590,Running Shoes,Footwear,1027.36,20,12,311,S655,35-44,"Cape Town, South Africa",Female,5.1,Overnight,11.84,Yes,24
+P6236,Air Conditioner,Home Appliances,144.04,15,12,6,S294,45-54,"London, UK",Female,19.25,Overnight,15.55,Yes,32
+P4251,Formal Shoes,Footwear,15.85,20,8,356,S551,45-54,"New York, USA",Male,37.06,Standard,14.68,No,31
+P5769,Slippers,Footwear,231.9,20,12,154,S284,18-24,"Mumbai, India",Female,40.88,Overnight,7.55,Yes,90
+P3176,Speaker,Electronics,359.39,10,5,131,S176,45-54,Singapore,Female,22.9,Overnight,15.36,No,60
+P6725,Jacket,Apparel,1777.28,10,12,33,S914,25-34,"Dubai, UAE",Female,37.02,Overnight,8.32,Yes,16
+P9379,Smartphone,Electronics,1822.54,10,8,426,S621,55+,"Berlin, Germany",Non-Binary,1.33,Standard,13.52,No,29
+P2891,Fiction,Books,13.0,0,10,295,S780,35-44,"Los Angeles, USA",Female,27.07,Overnight,3.52,Yes,96
+P7458,Heels,Footwear,997.65,25,15,179,S397,35-44,"Phoenix, USA",Female,34.24,Standard,18.17,Yes,48
+P4265,T-shirt,Apparel,65.03,25,8,498,S311,18-24,"Paris, France",Male,29.13,Express,5.67,Yes,30
+P4897,Washing Machine,Home Appliances,1195.38,0,8,413,S627,35-44,"Phoenix, USA",Female,22.66,Standard,16.6,No,50
+P2208,Sweater,Apparel,1909.11,10,12,290,S688,18-24,"Toronto, Canada",Non-Binary,34.2,Standard,10.69,Yes,67
+P3317,Smartwatch,Electronics,576.27,5,15,57,S962,55+,"Cape Town, South Africa",Female,10.18,Express,7.91,No,43
+P7611,Refrigerator,Home Appliances,1609.97,5,8,383,S749,45-54,"Chicago, USA",Female,2.36,Overnight,3.25,Yes,30
+P7450,Camera,Electronics,472.72,5,12,187,S987,18-24,"Chicago, USA",Non-Binary,48.88,Overnight,8.83,No,35
+P9089,Gaming Console,Electronics,1030.93,25,8,72,S813,35-44,Singapore,Male,3.73,Overnight,8.82,No,46
+P9353,T-shirt,Apparel,1607.63,25,15,337,S774,25-34,"Mumbai, India",Female,14.56,Express,3.88,No,15
+P2796,Dishwasher,Home Appliances,1544.96,15,10,82,S547,55+,"Paris, France",Non-Binary,36.36,Overnight,1.84,Yes,31
+P3806,Shirt,Apparel,663.25,5,10,422,S716,55+,"Toronto, Canada",Female,44.55,Standard,5.73,Yes,60
+P4814,Camera,Electronics,1937.23,5,5,221,S214,55+,"Paris, France",Non-Binary,45.02,Express,17.07,No,42
+P1931,Cookbooks,Books,1635.33,10,8,81,S387,25-34,"Sydney, Australia",Male,46.64,Standard,11.28,Yes,38
+P7746,Fiction,Books,775.48,20,8,76,S161,18-24,"London, UK",Non-Binary,22.16,Overnight,15.64,No,12
+P9447,Textbooks,Books,1403.59,0,15,388,S490,55+,"Mumbai, India",Male,4.74,Express,13.31,No,20
+P2800,Speaker,Electronics,890.17,0,5,201,S438,55+,"Cape Town, South Africa",Male,48.94,Standard,16.05,Yes,73
+P8678,Sneakers,Footwear,183.49,0,15,55,S216,25-34,"London, UK",Male,18.77,Overnight,3.8,Yes,22
+P3700,Toaster,Home Appliances,1038.27,0,5,242,S406,18-24,"Tokyo, Japan",Male,31.46,Overnight,13.6,No,21
+P4533,Blender,Home Appliances,398.74,20,12,314,S922,18-24,"Sydney, Australia",Non-Binary,46.25,Express,19.17,Yes,87
+P5426,Cookbooks,Books,373.69,25,15,247,S235,55+,"Houston, USA",Female,49.49,Standard,9.93,Yes,95
+P3328,Gaming Console,Electronics,503.67,0,12,204,S190,18-24,"Berlin, Germany",Male,17.75,Overnight,13.42,No,55
+P1829,Boots,Footwear,335.49,10,10,388,S226,55+,"Toronto, Canada",Non-Binary,8.46,Overnight,3.88,No,18
+P3530,Headphones,Electronics,279.06,25,12,424,S575,35-44,Singapore,Non-Binary,12.97,Express,6.36,Yes,98
+P6306,Jeans,Apparel,1141.31,25,15,142,S580,55+,"Los Angeles, USA",Non-Binary,32.4,Standard,15.79,Yes,5
+P1845,Biographies,Books,1713.03,0,12,233,S633,25-34,"Los Angeles, USA",Non-Binary,7.25,Standard,1.88,No,41
+P7554,Tablet,Electronics,106.41,15,12,487,S537,35-44,"Cape Town, South Africa",Male,0.11,Standard,5.79,No,26
+P3207,Boots,Footwear,1148.91,25,15,211,S363,55+,"Phoenix, USA",Non-Binary,42.96,Express,6.6,No,56
+P3781,T-shirt,Apparel,1640.51,25,8,255,S516,45-54,"Dubai, UAE",Female,42.68,Overnight,18.52,No,31
+P7503,Formal Shoes,Footwear,1867.5,25,15,328,S508,25-34,"Phoenix, USA",Female,37.24,Overnight,13.34,No,40
+P2856,Sweater,Apparel,202.39,20,8,258,S742,18-24,"New York, USA",Non-Binary,46.23,Standard,13.15,No,52
+P9282,Heels,Footwear,1805.43,20,8,301,S708,45-54,"Cape Town, South Africa",Male,15.69,Standard,6.69,No,61
+P4424,Jacket,Apparel,481.65,5,12,77,S451,55+,"Phoenix, USA",Female,16.56,Overnight,6.41,Yes,67
+P4256,Blender,Home Appliances,427.38,25,5,450,S531,35-44,"London, UK",Male,23.46,Express,15.27,Yes,17
+P5862,Toaster,Home Appliances,518.23,25,5,131,S249,55+,"Houston, USA",Male,14.54,Overnight,9.55,Yes,6
+P8573,Microwave,Home Appliances,913.39,5,10,190,S538,55+,"Houston, USA",Female,45.68,Express,16.05,Yes,52
+P1893,Air Conditioner,Home Appliances,1646.39,0,12,208,S200,45-54,"New York, USA",Non-Binary,9.01,Standard,15.31,Yes,62
+P9034,Cookbooks,Books,507.57,5,5,451,S237,25-34,"Berlin, Germany",Male,16.65,Express,9.17,No,39
+P6011,Laptop,Electronics,994.6,5,10,239,S561,55+,"Dubai, UAE",Female,6.82,Overnight,5.07,Yes,45
+P8096,Comics,Books,1325.81,0,12,434,S943,25-34,Singapore,Male,4.42,Standard,7.36,No,38
+P2111,Air Conditioner,Home Appliances,1206.14,15,15,55,S602,55+,"New York, USA",Non-Binary,9.64,Standard,12.76,No,25
+P4837,Tablet,Electronics,828.34,25,15,268,S221,25-34,"Paris, France",Non-Binary,45.34,Overnight,9.42,No,18
+P9252,Formal Shoes,Footwear,1008.72,10,5,353,S444,35-44,"Houston, USA",Female,18.18,Express,18.16,Yes,94
+P8111,Graphic Novels,Books,1904.57,15,12,435,S408,18-24,"Mumbai, India",Non-Binary,30.24,Overnight,5.39,Yes,80
+P5254,Graphic Novels,Books,803.24,0,15,221,S640,18-24,"Mumbai, India",Female,46.96,Express,16.31,No,92
+P6001,Dress,Apparel,711.1,25,5,98,S716,45-54,"Chicago, USA",Female,49.21,Overnight,4.46,No,88
+P9040,Headphones,Electronics,417.81,20,10,425,S184,18-24,"Phoenix, USA",Male,24.25,Overnight,10.46,No,33
+P9435,Air Conditioner,Home Appliances,1045.55,20,5,302,S147,45-54,"Dubai, UAE",Female,31.46,Overnight,8.69,No,12
+P5992,Flats,Footwear,1929.23,25,10,362,S190,45-54,"Chicago, USA",Male,25.87,Express,3.35,No,98
+P2758,Sweater,Apparel,1792.47,0,5,172,S986,35-44,"New York, USA",Female,1.11,Standard,7.32,No,69
+P3624,Shirt,Apparel,169.85,20,5,486,S842,45-54,"Berlin, Germany",Non-Binary,3.06,Express,19.73,No,37
+P3729,Dress,Apparel,1500.6,0,8,328,S810,45-54,"London, UK",Non-Binary,12.49,Express,4.88,Yes,39
+P5573,Fiction,Books,1594.37,25,8,364,S655,25-34,"Mumbai, India",Male,24.02,Overnight,3.12,Yes,52
+P6576,Formal Shoes,Footwear,123.11,5,12,258,S890,35-44,"Tokyo, Japan",Female,3.76,Standard,12.4,Yes,4
+P8933,Skirt,Apparel,559.3,25,12,313,S262,25-34,"Tokyo, Japan",Female,36.19,Standard,12.38,No,75
+P7755,Slippers,Footwear,1079.84,20,8,307,S531,55+,Singapore,Female,34.33,Standard,12.65,No,15
+P4839,Headphones,Electronics,256.76,5,5,386,S944,55+,"Mumbai, India",Male,0.43,Express,9.3,No,56
+P9040,Refrigerator,Home Appliances,1689.06,5,10,423,S920,55+,"Chicago, USA",Non-Binary,19.45,Overnight,14.47,No,57
+P5239,Socks,Apparel,915.13,20,8,438,S217,35-44,"Sydney, Australia",Male,25.6,Overnight,1.33,Yes,55
+P7114,Dishwasher,Home Appliances,1869.03,10,12,172,S839,35-44,"Tokyo, Japan",Non-Binary,45.56,Standard,15.74,Yes,58
+P1541,Washing Machine,Home Appliances,1720.15,20,12,129,S389,55+,"Tokyo, Japan",Female,34.75,Express,6.28,No,45
+P3545,Gaming Console,Electronics,397.84,5,10,385,S391,45-54,"New York, USA",Non-Binary,13.26,Overnight,6.1,No,18
+P2783,Washing Machine,Home Appliances,1069.52,0,5,119,S308,45-54,"Tokyo, Japan",Female,6.3,Standard,3.13,Yes,15
+P1842,Biographies,Books,1522.96,15,15,88,S121,35-44,"Houston, USA",Male,47.61,Overnight,19.17,Yes,1
+P3307,Formal Shoes,Footwear,915.51,10,8,212,S690,18-24,"New York, USA",Non-Binary,1.96,Express,9.56,No,78
+P3830,Textbooks,Books,834.0,20,12,19,S418,45-54,"Phoenix, USA",Female,42.15,Overnight,10.07,No,1
+P2153,Laptop,Electronics,1122.25,0,8,474,S889,18-24,"Houston, USA",Male,29.36,Standard,3.48,No,74
+P7680,Toaster,Home Appliances,1609.02,20,10,352,S620,45-54,"Tokyo, Japan",Non-Binary,2.22,Standard,19.05,No,37
+P8507,Non-Fiction,Books,111.64,5,5,178,S116,45-54,"Phoenix, USA",Non-Binary,3.94,Standard,8.8,Yes,9
+P8286,Monitor,Electronics,1948.07,10,8,487,S251,18-24,"Dubai, UAE",Female,30.57,Express,12.83,Yes,95
+P7283,Tablet,Electronics,1635.81,20,10,137,S129,18-24,"Los Angeles, USA",Male,16.64,Standard,14.53,Yes,51
+P1552,Refrigerator,Home Appliances,378.15,0,10,298,S532,35-44,"Mumbai, India",Female,32.77,Overnight,6.14,No,42
+P4519,Refrigerator,Home Appliances,1938.11,10,5,378,S783,45-54,"Dubai, UAE",Male,31.4,Standard,14.99,Yes,20
+P4355,Laptop,Electronics,946.18,5,10,493,S307,45-54,"Phoenix, USA",Non-Binary,29.84,Overnight,9.04,Yes,20
+P9172,Biographies,Books,440.52,5,10,367,S844,45-54,"Houston, USA",Female,35.72,Standard,3.31,Yes,37
+P8479,Laptop,Electronics,219.82,15,8,420,S347,45-54,"Tokyo, Japan",Female,33.5,Standard,19.55,Yes,97
+P6501,Vacuum Cleaner,Home Appliances,1117.52,20,15,482,S210,25-34,"Toronto, Canada",Male,34.94,Overnight,12.84,Yes,1
+P1349,Camera,Electronics,644.91,5,12,456,S366,35-44,"Paris, France",Non-Binary,41.2,Express,16.63,Yes,0
+P6265,Air Conditioner,Home Appliances,883.74,15,10,250,S819,35-44,Singapore,Non-Binary,48.38,Standard,15.39,Yes,9
+P4803,Jacket,Apparel,1590.88,5,5,403,S518,55+,"Cape Town, South Africa",Male,22.98,Overnight,1.98,No,25
+P8332,Refrigerator,Home Appliances,1764.25,0,5,22,S293,18-24,Singapore,Non-Binary,27.51,Standard,10.37,Yes,40
+P1925,Heels,Footwear,1112.0,25,12,425,S108,25-34,"Phoenix, USA",Female,24.78,Overnight,5.43,Yes,8
+P5666,Slippers,Footwear,1252.94,5,5,286,S830,45-54,"Los Angeles, USA",Male,34.74,Overnight,5.33,Yes,8
+P7599,Fiction,Books,349.07,15,8,332,S348,45-54,"Paris, France",Female,17.42,Overnight,6.03,Yes,5
+P1971,Sneakers,Footwear,198.66,15,5,379,S312,35-44,"Cape Town, South Africa",Male,42.36,Standard,10.82,No,81
+P6185,Jacket,Apparel,600.56,0,12,377,S824,18-24,"New York, USA",Male,34.68,Standard,5.44,Yes,64
+P5923,Laptop,Electronics,1604.24,5,5,403,S528,18-24,"Mumbai, India",Non-Binary,13.93,Express,5.23,No,96
+P9734,Toaster,Home Appliances,1408.14,0,5,470,S769,45-54,Singapore,Female,38.56,Overnight,10.07,No,54
+P4006,Slippers,Footwear,1581.55,20,12,350,S994,55+,"Houston, USA",Male,12.54,Express,1.36,No,52
+P9792,Biographies,Books,410.72,25,10,287,S565,18-24,"Houston, USA",Female,37.54,Express,10.91,No,19
+P6051,Comics,Books,177.3,25,12,191,S357,35-44,"Cape Town, South Africa",Female,34.81,Overnight,8.66,Yes,25
+P1541,Socks,Apparel,718.41,5,12,248,S423,35-44,Singapore,Male,47.35,Overnight,12.68,No,53
+P8207,Dishwasher,Home Appliances,888.93,0,8,291,S205,25-34,"London, UK",Male,21.18,Standard,15.06,Yes,41
+P9657,Laptop,Electronics,938.46,0,12,143,S970,18-24,"Toronto, Canada",Non-Binary,16.06,Standard,11.39,Yes,10
+P5665,Socks,Apparel,1677.52,5,5,93,S765,18-24,"New York, USA",Male,35.19,Express,8.74,No,88
+P3693,Non-Fiction,Books,575.33,15,10,413,S979,45-54,"London, UK",Female,33.29,Standard,6.02,No,71
+P9933,Washing Machine,Home Appliances,1561.35,5,8,386,S383,18-24,Singapore,Female,7.7,Overnight,8.31,Yes,14
+P2573,Camera,Electronics,315.43,10,10,462,S593,55+,"Sydney, Australia",Female,21.23,Express,15.51,Yes,68
+P8055,Speaker,Electronics,834.66,10,15,416,S571,55+,Singapore,Non-Binary,3.25,Express,2.0,Yes,85
+P6195,Jacket,Apparel,676.5,5,5,43,S832,55+,"Paris, France",Female,19.28,Overnight,14.53,No,55
+P7554,Shirt,Apparel,1674.94,15,5,220,S464,35-44,"Paris, France",Female,1.42,Standard,12.25,No,24
+P2055,Skirt,Apparel,1156.91,5,10,442,S996,35-44,"Phoenix, USA",Male,18.41,Express,19.8,Yes,23
+P8921,Gaming Console,Electronics,1666.07,20,5,108,S712,35-44,"Sydney, Australia",Non-Binary,37.74,Overnight,19.71,Yes,44
+P7943,Textbooks,Books,346.45,0,12,34,S582,25-34,"Cape Town, South Africa",Female,43.23,Express,3.59,Yes,78
+P3520,Headphones,Electronics,1557.98,0,15,224,S569,45-54,"Dubai, UAE",Male,7.05,Express,2.02,No,57
+P4245,Cookbooks,Books,640.85,25,10,69,S386,45-54,"London, UK",Male,41.09,Overnight,8.84,Yes,95
+P9288,Microwave,Home Appliances,1597.51,0,5,302,S546,18-24,"Paris, France",Non-Binary,43.27,Overnight,12.66,No,55
+P9959,Cookbooks,Books,501.54,5,15,43,S707,45-54,"Cape Town, South Africa",Female,29.64,Standard,18.86,Yes,64
+P9718,Microwave,Home Appliances,937.17,0,10,104,S906,55+,"Phoenix, USA",Male,13.39,Standard,1.55,Yes,47
+P6318,Headphones,Electronics,394.26,0,12,411,S740,55+,"Cape Town, South Africa",Female,32.22,Overnight,4.72,Yes,98
+P3517,Laptop,Electronics,512.46,15,12,144,S668,45-54,"Chicago, USA",Non-Binary,27.02,Overnight,3.52,Yes,1
+P8420,Microwave,Home Appliances,36.7,20,10,451,S292,25-34,"Tokyo, Japan",Male,13.68,Overnight,8.23,Yes,91
+P7901,Formal Shoes,Footwear,1814.89,15,8,378,S225,35-44,"New York, USA",Female,17.8,Standard,15.78,Yes,17
+P3531,Textbooks,Books,753.21,25,8,418,S137,55+,"Tokyo, Japan",Female,16.07,Standard,10.42,Yes,29
+P6155,Jacket,Apparel,1360.35,15,5,304,S827,35-44,"Paris, France",Male,0.3,Standard,3.47,Yes,58
+P3033,Cookbooks,Books,1973.56,0,12,443,S454,35-44,"Dubai, UAE",Non-Binary,44.51,Express,3.08,Yes,72
+P5044,Dress,Apparel,702.62,10,8,176,S634,18-24,"Houston, USA",Female,27.27,Overnight,9.52,No,65
+P1760,Headphones,Electronics,432.32,10,8,310,S514,18-24,Singapore,Male,16.15,Standard,9.34,No,46
+P8923,Jacket,Apparel,1135.37,25,10,184,S983,55+,"Chicago, USA",Non-Binary,14.46,Standard,4.22,Yes,62
+P8194,Refrigerator,Home Appliances,398.95,10,12,227,S663,45-54,"Los Angeles, USA",Non-Binary,2.25,Standard,15.68,Yes,23
+P6566,Shorts,Apparel,36.24,20,5,147,S513,25-34,"Tokyo, Japan",Female,25.69,Express,2.45,Yes,80
+P5993,Gaming Console,Electronics,800.39,15,10,257,S522,25-34,"Houston, USA",Male,41.39,Overnight,5.08,Yes,47
+P4520,Textbooks,Books,1477.34,15,5,395,S464,45-54,"London, UK",Male,49.81,Overnight,4.23,Yes,56
+P6468,T-shirt,Apparel,1779.5,20,10,289,S763,45-54,"Phoenix, USA",Male,19.76,Overnight,5.17,No,55
+P5627,T-shirt,Apparel,1888.04,10,8,432,S784,45-54,"Chicago, USA",Non-Binary,12.73,Express,14.84,Yes,90
+P9448,Graphic Novels,Books,1936.92,20,10,197,S810,18-24,"Tokyo, Japan",Male,41.27,Express,15.12,Yes,24
+P8019,Dishwasher,Home Appliances,1444.39,5,10,456,S131,55+,"Sydney, Australia",Female,44.15,Express,16.99,Yes,47
+P8031,Slippers,Footwear,438.24,0,12,388,S340,18-24,"Sydney, Australia",Female,9.81,Standard,8.68,No,85
+P8506,Jeans,Apparel,41.53,10,8,270,S833,18-24,"Phoenix, USA",Female,16.49,Standard,1.64,Yes,28
+P8246,Formal Shoes,Footwear,918.63,0,5,46,S200,55+,"Phoenix, USA",Male,33.79,Standard,7.37,No,100
+P8927,Vacuum Cleaner,Home Appliances,526.7,10,8,22,S670,45-54,"Paris, France",Non-Binary,46.31,Express,9.91,Yes,35
+P8863,Smartphone,Electronics,1848.8,25,5,416,S877,55+,"London, UK",Non-Binary,0.03,Overnight,15.86,No,90
+P2917,Shirt,Apparel,392.51,5,12,369,S202,55+,"Houston, USA",Male,17.06,Overnight,15.16,Yes,96
+P1227,Microwave,Home Appliances,225.82,0,8,26,S862,25-34,"Houston, USA",Female,10.04,Standard,3.96,No,71
+P5225,Hiking Shoes,Footwear,178.18,0,5,135,S537,45-54,"Toronto, Canada",Male,17.23,Standard,2.62,No,83
+P9970,Fiction,Books,559.07,0,10,212,S983,35-44,Singapore,Non-Binary,32.12,Standard,13.1,Yes,70
+P1183,Washing Machine,Home Appliances,1432.58,0,5,70,S160,55+,"Phoenix, USA",Male,19.29,Overnight,13.68,No,65
+P4714,Washing Machine,Home Appliances,930.93,5,12,119,S300,55+,"Dubai, UAE",Male,1.56,Overnight,19.27,No,14
+P2296,Shirt,Apparel,1517.72,5,15,59,S619,25-34,"Paris, France",Non-Binary,21.11,Overnight,18.46,Yes,6
+P7598,Magazines,Books,1159.06,25,15,27,S493,18-24,"Cape Town, South Africa",Non-Binary,28.61,Express,7.11,Yes,2
+P3083,Vacuum Cleaner,Home Appliances,484.88,0,8,237,S470,25-34,"Chicago, USA",Non-Binary,35.56,Overnight,19.82,No,26
+P7773,Speaker,Electronics,452.62,0,10,386,S588,35-44,"London, UK",Female,45.63,Standard,17.65,Yes,18
+P6545,Camera,Electronics,1415.04,15,5,308,S144,25-34,"Cape Town, South Africa",Female,47.0,Express,2.94,Yes,40
+P9869,Cookbooks,Books,1467.2,5,15,500,S421,25-34,"London, UK",Male,29.72,Overnight,16.86,Yes,12
+P7042,Tablet,Electronics,1063.03,15,8,299,S538,18-24,"Cape Town, South Africa",Non-Binary,28.37,Overnight,6.92,No,19
+P1838,Non-Fiction,Books,291.23,25,15,37,S643,35-44,"Cape Town, South Africa",Non-Binary,13.16,Express,16.35,No,92
+P8778,Air Conditioner,Home Appliances,1350.41,25,10,414,S896,55+,"Sydney, Australia",Female,20.06,Overnight,7.93,Yes,55
+P4777,Washing Machine,Home Appliances,69.84,0,5,365,S735,18-24,"Mumbai, India",Male,20.76,Express,1.93,No,22
+P7607,Monitor,Electronics,1768.91,10,10,485,S241,35-44,"Toronto, Canada",Female,9.53,Standard,6.83,No,17
+P7372,Hiking Shoes,Footwear,425.85,10,8,476,S668,18-24,"Los Angeles, USA",Non-Binary,0.01,Express,1.23,No,99
+P5921,Blender,Home Appliances,1951.37,25,10,338,S584,35-44,"Paris, France",Female,6.91,Standard,8.74,No,67
+P7780,Magazines,Books,1643.1,15,15,11,S650,55+,"Phoenix, USA",Non-Binary,39.16,Standard,19.69,Yes,7
+P4023,Graphic Novels,Books,783.36,10,12,79,S881,55+,"Tokyo, Japan",Female,34.4,Overnight,3.86,No,4
+P2379,Running Shoes,Footwear,1571.56,20,15,56,S424,55+,Singapore,Non-Binary,0.1,Express,15.05,Yes,14
+P1227,Slippers,Footwear,544.95,15,5,149,S349,25-34,"Houston, USA",Female,48.46,Standard,17.81,No,40
+P3269,Jeans,Apparel,389.65,5,5,468,S509,25-34,"Berlin, Germany",Male,23.45,Overnight,14.82,No,84
+P3492,Jacket,Apparel,417.92,20,8,338,S430,55+,"Toronto, Canada",Male,37.37,Standard,5.98,No,86
+P2159,Magazines,Books,1947.25,15,10,496,S271,55+,"Mumbai, India",Female,14.25,Overnight,12.96,Yes,55
+P5418,Magazines,Books,1757.88,20,10,341,S320,55+,"Sydney, Australia",Female,38.72,Overnight,9.46,No,56
+P7934,Jacket,Apparel,1200.28,5,12,374,S688,35-44,Singapore,Male,6.9,Standard,12.34,No,92
+P6106,Heels,Footwear,198.74,25,8,343,S222,55+,"Tokyo, Japan",Male,20.45,Express,12.71,No,13
+P6123,Dishwasher,Home Appliances,220.61,0,12,81,S523,35-44,"Cape Town, South Africa",Female,11.38,Express,6.98,No,92
+P8911,Dress,Apparel,255.3,20,15,309,S438,35-44,"Toronto, Canada",Female,25.04,Express,2.0,Yes,27
+P1477,Air Conditioner,Home Appliances,595.76,25,15,255,S928,55+,"Houston, USA",Female,36.46,Overnight,18.1,Yes,43
+P9476,Hiking Shoes,Footwear,609.06,25,10,369,S315,18-24,"Chicago, USA",Male,47.92,Overnight,8.39,No,82
+P3460,Sweater,Apparel,1627.01,15,15,301,S629,55+,"Dubai, UAE",Male,31.79,Standard,10.51,Yes,64
+P1150,Sweater,Apparel,185.92,15,5,440,S751,18-24,"London, UK",Non-Binary,16.91,Overnight,3.97,Yes,29
+P5165,Biographies,Books,963.54,20,12,333,S231,18-24,"Paris, France",Male,32.22,Overnight,4.98,Yes,98
+P3647,Speaker,Electronics,1281.89,20,10,403,S460,55+,"Houston, USA",Non-Binary,19.91,Standard,18.82,Yes,94
+P7604,Jeans,Apparel,1571.41,5,15,148,S621,25-34,"Tokyo, Japan",Female,11.47,Express,7.11,No,78
+P9916,Comics,Books,600.54,15,10,359,S584,35-44,"Berlin, Germany",Female,30.05,Standard,4.0,No,42
+P1877,Fiction,Books,418.04,5,12,32,S799,35-44,"Houston, USA",Non-Binary,39.35,Standard,13.17,Yes,99
+P2181,Smartphone,Electronics,1694.45,10,8,313,S505,45-54,Singapore,Non-Binary,17.17,Overnight,14.14,No,69
+P5555,Gaming Console,Electronics,1871.4,15,5,229,S634,35-44,"Toronto, Canada",Non-Binary,17.71,Overnight,16.63,Yes,4
+P9164,Sweater,Apparel,1418.43,5,15,182,S271,18-24,"Toronto, Canada",Non-Binary,39.54,Overnight,18.14,Yes,11
+P7641,Magazines,Books,94.95,5,12,125,S169,55+,"London, UK",Non-Binary,37.99,Standard,15.4,No,12
+P5833,Hiking Shoes,Footwear,1594.05,15,10,140,S952,25-34,"Mumbai, India",Non-Binary,4.91,Standard,7.57,No,94
+P9030,Smartwatch,Electronics,112.22,25,8,317,S699,55+,"Toronto, Canada",Female,22.46,Standard,8.74,Yes,41
+P8459,Speaker,Electronics,1749.82,0,8,381,S203,45-54,"New York, USA",Non-Binary,16.11,Express,1.42,Yes,54
+P5303,Socks,Apparel,1017.53,5,12,195,S155,25-34,"London, UK",Male,43.76,Overnight,5.03,No,36
+P2043,Jacket,Apparel,1450.97,5,10,494,S487,55+,"Mumbai, India",Non-Binary,5.23,Overnight,8.17,No,5
+P1430,Skirt,Apparel,61.76,10,5,304,S455,45-54,"Phoenix, USA",Male,38.82,Overnight,12.04,Yes,80
+P7435,Boots,Footwear,714.1,5,15,25,S907,55+,"New York, USA",Female,16.66,Standard,3.56,Yes,25
+P4682,Magazines,Books,1713.43,20,5,415,S360,25-34,"Sydney, Australia",Female,9.56,Standard,5.44,Yes,88
+P1989,Refrigerator,Home Appliances,1502.5,25,8,313,S322,25-34,"Los Angeles, USA",Male,18.72,Standard,14.04,Yes,78
+P2244,Speaker,Electronics,1061.93,5,15,294,S590,25-34,"Los Angeles, USA",Female,10.58,Standard,8.72,No,2
+P9912,Heels,Footwear,1238.45,25,8,220,S339,18-24,"Berlin, Germany",Male,41.48,Express,7.43,Yes,68
+P1117,Gaming Console,Electronics,121.0,0,5,79,S454,55+,"Toronto, Canada",Male,0.45,Overnight,19.07,Yes,69
+P2156,Boots,Footwear,1648.31,5,15,248,S923,18-24,"Phoenix, USA",Female,14.62,Standard,8.56,No,33
+P9043,Laptop,Electronics,352.14,10,5,407,S464,35-44,"Houston, USA",Non-Binary,21.75,Overnight,6.63,Yes,51
+P5143,Refrigerator,Home Appliances,739.84,20,8,123,S372,55+,"London, UK",Non-Binary,44.63,Express,8.36,Yes,53
+P5631,Jacket,Apparel,383.54,25,10,433,S621,55+,"Berlin, Germany",Female,38.86,Express,10.39,No,75
+P5876,Formal Shoes,Footwear,970.85,20,15,107,S532,45-54,"Sydney, Australia",Female,30.72,Standard,18.23,Yes,23
+P4480,Magazines,Books,1332.91,15,15,347,S563,18-24,"Tokyo, Japan",Non-Binary,2.86,Standard,15.73,No,18
+P1615,Sneakers,Footwear,1406.21,10,12,288,S674,45-54,Singapore,Female,17.7,Express,18.68,No,14
+P7741,Cookbooks,Books,562.5,20,12,0,S750,55+,"London, UK",Non-Binary,37.84,Standard,3.07,No,19
+P6520,Refrigerator,Home Appliances,1784.13,25,10,76,S295,35-44,"New York, USA",Non-Binary,9.83,Standard,5.04,No,9
+P3409,Smartphone,Electronics,1049.46,10,15,305,S170,35-44,"Phoenix, USA",Non-Binary,45.67,Overnight,18.61,Yes,97
+P8030,Boots,Footwear,1791.62,0,10,453,S364,35-44,"Toronto, Canada",Female,30.82,Standard,8.59,Yes,32
+P7646,Slippers,Footwear,147.72,10,8,76,S331,25-34,"Paris, France",Non-Binary,38.44,Express,16.81,Yes,67
+P8162,Skirt,Apparel,1883.93,0,12,182,S937,25-34,"Paris, France",Female,33.71,Express,5.78,Yes,18
+P4302,Biographies,Books,318.96,0,8,429,S690,18-24,"Paris, France",Male,11.27,Standard,1.09,No,54
+P7692,Microwave,Home Appliances,1699.12,10,10,38,S968,45-54,"Berlin, Germany",Male,10.49,Standard,13.88,No,77
+P3623,Socks,Apparel,1279.1,10,10,10,S189,25-34,"Chicago, USA",Female,35.99,Overnight,1.46,Yes,46
+P3094,Sweater,Apparel,1879.33,0,10,90,S695,45-54,"Toronto, Canada",Male,0.2,Express,2.13,No,3
+P9881,Dishwasher,Home Appliances,620.78,25,5,233,S501,55+,"Phoenix, USA",Male,4.27,Overnight,10.73,Yes,15
+P9277,Monitor,Electronics,435.98,10,12,409,S557,45-54,"Mumbai, India",Male,30.48,Express,12.18,Yes,8
+P1652,Comics,Books,1094.35,0,10,126,S265,25-34,"Dubai, UAE",Male,15.69,Express,11.23,No,30
+P1630,Comics,Books,1038.83,20,12,155,S568,45-54,"Dubai, UAE",Female,46.74,Overnight,11.16,No,86
+P7059,Tablet,Electronics,172.37,25,12,239,S140,45-54,"Houston, USA",Female,17.06,Standard,11.11,No,43
+P1325,Laptop,Electronics,1308.26,10,15,357,S110,18-24,Singapore,Female,15.97,Express,16.58,No,35
