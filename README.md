@@ -1,6 +1,6 @@
 # Ecommerce-eda-insights
 
-# 1. Title & Description: E-Commerce Exploratory Data Analysis (EDA) Pipeline
+# 1. E-Commerce Exploratory Data Analysis (EDA) Pipeline
 This project is an Exploratory Data Analysis (EDA) portfolio piece designed to investigate customer transaction distributions, geographic purchasing tendencies, and dataset integrity checks using Python.
 
 # 2. Problem Statement:
